@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea2eb58441086ed46a6791c6ab0ada42, type: 3}
+  m_Name: SixStar
+  m_EditorClassIdentifier: 
+  _tutorialUIelement: {fileID: 7799185923123676544, guid: 81ab9146eb333774abd28d8d0f2eb29d,
+    type: 3}
+  _timer: 15
+  _isModal: 0
+  _destroyDelay: 3

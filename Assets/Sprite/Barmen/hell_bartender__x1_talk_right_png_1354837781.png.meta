@@ -1,0 +1,2648 @@
+fileFormatVersion: 2
+guid: ca9e9b0c37ee79f4facfadf26b63725a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3425789320823343749
+    second: hell_bartender__x1_talk_right_png_1354837781_0
+  - first:
+      213: -8151849170683263804
+    second: hell_bartender__x1_talk_right_png_1354837781_1
+  - first:
+      213: -3743730389883445389
+    second: hell_bartender__x1_talk_right_png_1354837781_2
+  - first:
+      213: 5775531778249453147
+    second: hell_bartender__x1_talk_right_png_1354837781_3
+  - first:
+      213: 1543461052888478667
+    second: hell_bartender__x1_talk_right_png_1354837781_4
+  - first:
+      213: 4956608029750719742
+    second: hell_bartender__x1_talk_right_png_1354837781_5
+  - first:
+      213: -927948452686452158
+    second: hell_bartender__x1_talk_right_png_1354837781_6
+  - first:
+      213: -5729041607256152903
+    second: hell_bartender__x1_talk_right_png_1354837781_7
+  - first:
+      213: -2595985507748737332
+    second: hell_bartender__x1_talk_right_png_1354837781_8
+  - first:
+      213: 5420634420042860039
+    second: hell_bartender__x1_talk_right_png_1354837781_9
+  - first:
+      213: 3614840695660430267
+    second: hell_bartender__x1_talk_right_png_1354837781_10
+  - first:
+      213: -6882689628254733290
+    second: hell_bartender__x1_talk_right_png_1354837781_11
+  - first:
+      213: -6201281770269032786
+    second: hell_bartender__x1_talk_right_png_1354837781_12
+  - first:
+      213: -1170934555569607216
+    second: hell_bartender__x1_talk_right_png_1354837781_13
+  - first:
+      213: 7513519265507638942
+    second: hell_bartender__x1_talk_right_png_1354837781_14
+  - first:
+      213: 4006559809979054746
+    second: hell_bartender__x1_talk_right_png_1354837781_15
+  - first:
+      213: -4451570050641421193
+    second: hell_bartender__x1_talk_right_png_1354837781_16
+  - first:
+      213: 4860445316919935594
+    second: hell_bartender__x1_talk_right_png_1354837781_17
+  - first:
+      213: -5166774718675555809
+    second: hell_bartender__x1_talk_right_png_1354837781_18
+  - first:
+      213: -7329672376214444708
+    second: hell_bartender__x1_talk_right_png_1354837781_19
+  - first:
+      213: 2976970192783485252
+    second: hell_bartender__x1_talk_right_png_1354837781_20
+  - first:
+      213: 2842936174625790617
+    second: hell_bartender__x1_talk_right_png_1354837781_21
+  - first:
+      213: 5704198922636355556
+    second: hell_bartender__x1_talk_right_png_1354837781_22
+  - first:
+      213: -2876615035045807330
+    second: hell_bartender__x1_talk_right_png_1354837781_23
+  - first:
+      213: 2689082328575841836
+    second: hell_bartender__x1_talk_right_png_1354837781_24
+  - first:
+      213: -465545314991180139
+    second: hell_bartender__x1_talk_right_png_1354837781_25
+  - first:
+      213: 5097955004713042662
+    second: hell_bartender__x1_talk_right_png_1354837781_26
+  - first:
+      213: 4532706623549126988
+    second: hell_bartender__x1_talk_right_png_1354837781_27
+  - first:
+      213: 2075116831609084659
+    second: hell_bartender__x1_talk_right_png_1354837781_28
+  - first:
+      213: 1784072281396302084
+    second: hell_bartender__x1_talk_right_png_1354837781_29
+  - first:
+      213: -4199306506859368227
+    second: hell_bartender__x1_talk_right_png_1354837781_30
+  - first:
+      213: -311596425784472515
+    second: hell_bartender__x1_talk_right_png_1354837781_31
+  - first:
+      213: 6597006485511247048
+    second: hell_bartender__x1_talk_right_png_1354837781_32
+  - first:
+      213: 119523715385062944
+    second: hell_bartender__x1_talk_right_png_1354837781_33
+  - first:
+      213: -120892530365930589
+    second: hell_bartender__x1_talk_right_png_1354837781_34
+  - first:
+      213: -3186897099748808383
+    second: hell_bartender__x1_talk_right_png_1354837781_35
+  - first:
+      213: 2678813972710683401
+    second: hell_bartender__x1_talk_right_png_1354837781_36
+  - first:
+      213: -1341208006364768725
+    second: hell_bartender__x1_talk_right_png_1354837781_37
+  - first:
+      213: -606701076480861162
+    second: hell_bartender__x1_talk_right_png_1354837781_38
+  - first:
+      213: 8075659559648484572
+    second: hell_bartender__x1_talk_right_png_1354837781_39
+  - first:
+      213: -5786832714356888408
+    second: hell_bartender__x1_talk_right_png_1354837781_40
+  - first:
+      213: 8603323912902016038
+    second: hell_bartender__x1_talk_right_png_1354837781_41
+  - first:
+      213: -1676973436379871574
+    second: hell_bartender__x1_talk_right_png_1354837781_42
+  - first:
+      213: -7211601713685918870
+    second: hell_bartender__x1_talk_right_png_1354837781_43
+  - first:
+      213: 2275190182393048279
+    second: hell_bartender__x1_talk_right_png_1354837781_44
+  - first:
+      213: 5194865377993513570
+    second: hell_bartender__x1_talk_right_png_1354837781_45
+  - first:
+      213: 8233443489778732243
+    second: hell_bartender__x1_talk_right_png_1354837781_46
+  - first:
+      213: 1585921790907580194
+    second: hell_bartender__x1_talk_right_png_1354837781_47
+  - first:
+      213: 1828348555222243720
+    second: hell_bartender__x1_talk_right_png_1354837781_48
+  - first:
+      213: -5367233016639340402
+    second: hell_bartender__x1_talk_right_png_1354837781_49
+  - first:
+      213: 3414444277864316786
+    second: hell_bartender__x1_talk_right_png_1354837781_50
+  - first:
+      213: -1129046473229943854
+    second: hell_bartender__x1_talk_right_png_1354837781_51
+  - first:
+      213: 4310841497803962953
+    second: hell_bartender__x1_talk_right_png_1354837781_52
+  - first:
+      213: 6699780340738757965
+    second: hell_bartender__x1_talk_right_png_1354837781_53
+  - first:
+      213: 1192546909976991774
+    second: hell_bartender__x1_talk_right_png_1354837781_54
+  - first:
+      213: -3501338104181550936
+    second: hell_bartender__x1_talk_right_png_1354837781_55
+  - first:
+      213: -3231964259514710297
+    second: hell_bartender__x1_talk_right_png_1354837781_56
+  - first:
+      213: -3854625569653082749
+    second: hell_bartender__x1_talk_right_png_1354837781_57
+  - first:
+      213: 6802152564730048038
+    second: hell_bartender__x1_talk_right_png_1354837781_58
+  - first:
+      213: 8440329033423785032
+    second: hell_bartender__x1_talk_right_png_1354837781_59
+  - first:
+      213: 3354474790449347536
+    second: hell_bartender__x1_talk_right_png_1354837781_60
+  - first:
+      213: 1293827502978358313
+    second: hell_bartender__x1_talk_right_png_1354837781_61
+  - first:
+      213: 8207407115821608934
+    second: hell_bartender__x1_talk_right_png_1354837781_62
+  - first:
+      213: 8697850807453154417
+    second: hell_bartender__x1_talk_right_png_1354837781_63
+  - first:
+      213: -5350505999868717867
+    second: hell_bartender__x1_talk_right_png_1354837781_64
+  - first:
+      213: 30979649901544474
+    second: hell_bartender__x1_talk_right_png_1354837781_65
+  - first:
+      213: -609860213851969050
+    second: hell_bartender__x1_talk_right_png_1354837781_66
+  - first:
+      213: 1017455459546371571
+    second: hell_bartender__x1_talk_right_png_1354837781_67
+  - first:
+      213: 6468620723137979242
+    second: hell_bartender__x1_talk_right_png_1354837781_68
+  - first:
+      213: 1023047783591280581
+    second: hell_bartender__x1_talk_right_png_1354837781_69
+  - first:
+      213: -3463809591424932002
+    second: hell_bartender__x1_talk_right_png_1354837781_70
+  - first:
+      213: -8689378256836832502
+    second: hell_bartender__x1_talk_right_png_1354837781_71
+  - first:
+      213: -969541712075728054
+    second: hell_bartender__x1_talk_right_png_1354837781_72
+  - first:
+      213: -6466568055684096557
+    second: hell_bartender__x1_talk_right_png_1354837781_73
+  - first:
+      213: 14241361828070128
+    second: hell_bartender__x1_talk_right_png_1354837781_74
+  - first:
+      213: 5237793971048025865
+    second: hell_bartender__x1_talk_right_png_1354837781_75
+  - first:
+      213: -9136443718596274224
+    second: hell_bartender__x1_talk_right_png_1354837781_76
+  - first:
+      213: -5251494674315169922
+    second: hell_bartender__x1_talk_right_png_1354837781_77
+  - first:
+      213: -4186995034142010995
+    second: hell_bartender__x1_talk_right_png_1354837781_78
+  - first:
+      213: 8436174709331604694
+    second: hell_bartender__x1_talk_right_png_1354837781_79
+  - first:
+      213: -7471190336847476383
+    second: hell_bartender__x1_talk_right_png_1354837781_80
+  - first:
+      213: -1432568324072619863
+    second: hell_bartender__x1_talk_right_png_1354837781_81
+  - first:
+      213: -1903229290740302003
+    second: hell_bartender__x1_talk_right_png_1354837781_82
+  - first:
+      213: 9201843018999679122
+    second: hell_bartender__x1_talk_right_png_1354837781_83
+  - first:
+      213: 6508406589118052068
+    second: hell_bartender__x1_talk_right_png_1354837781_84
+  - first:
+      213: -2264455515270474414
+    second: hell_bartender__x1_talk_right_png_1354837781_85
+  - first:
+      213: -5915593628996649858
+    second: hell_bartender__x1_talk_right_png_1354837781_86
+  - first:
+      213: -5374191423705441192
+    second: hell_bartender__x1_talk_right_png_1354837781_87
+  - first:
+      213: -8838646655738684641
+    second: hell_bartender__x1_talk_right_png_1354837781_88
+  - first:
+      213: 4049228576135156980
+    second: hell_bartender__x1_talk_right_png_1354837781_89
+  - first:
+      213: 6614363929964092250
+    second: hell_bartender__x1_talk_right_png_1354837781_90
+  - first:
+      213: 7986513462172765209
+    second: hell_bartender__x1_talk_right_png_1354837781_91
+  - first:
+      213: 6042692372016624433
+    second: hell_bartender__x1_talk_right_png_1354837781_92
+  - first:
+      213: 6428239436956587057
+    second: hell_bartender__x1_talk_right_png_1354837781_93
+  - first:
+      213: -2916302510264517227
+    second: hell_bartender__x1_talk_right_png_1354837781_94
+  - first:
+      213: -6054662254121134049
+    second: hell_bartender__x1_talk_right_png_1354837781_95
+  - first:
+      213: -3998815346297303977
+    second: hell_bartender__x1_talk_right_png_1354837781_96
+  - first:
+      213: -4092772786682083946
+    second: hell_bartender__x1_talk_right_png_1354837781_97
+  - first:
+      213: 8493729637534053737
+    second: hell_bartender__x1_talk_right_png_1354837781_98
+  - first:
+      213: -5080980447989824558
+    second: hell_bartender__x1_talk_right_png_1354837781_99
+  - first:
+      213: -5379766703074292033
+    second: hell_bartender__x1_talk_right_png_1354837781_100
+  - first:
+      213: -7396078520734028583
+    second: hell_bartender__x1_talk_right_png_1354837781_101
+  - first:
+      213: 8064536635480207187
+    second: hell_bartender__x1_talk_right_png_1354837781_102
+  - first:
+      213: 8187212728244117167
+    second: hell_bartender__x1_talk_right_png_1354837781_103
+  - first:
+      213: -8408343597544975827
+    second: hell_bartender__x1_talk_right_png_1354837781_104
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1182
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a80079c39da8f20800000000000000
+      internalID: 3425789320823343749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1182
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c48cde9e50dede80800000000000000
+      internalID: -8151849170683263804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1182
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f9928ab099b0cc0800000000000000
+      internalID: -3743730389883445389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_3
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1182
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ee98f5d8fc62050800000000000000
+      internalID: 5775531778249453147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_4
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1182
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3711666a97b6510800000000000000
+      internalID: 1543461052888478667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_5
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1182
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4f328edb869c440800000000000000
+      internalID: 4956608029750719742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_6
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1182
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a20cb7cc34f13f0800000000000000
+      internalID: -927948452686452158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_7
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1182
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b46010130b5e70b0800000000000000
+      internalID: -5729041607256152903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_8
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1182
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce03905fe439fbd0800000000000000
+      internalID: -2595985507748737332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_9
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1182
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70609e70946f93b40800000000000000
+      internalID: 5420634420042860039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_10
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1182
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb34770e57e7a2230800000000000000
+      internalID: 3614840695660430267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_11
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 1182
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c7c98cf36cb70a0800000000000000
+      internalID: -6882689628254733290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_12
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1182
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae3203f51f90f9a0800000000000000
+      internalID: -6201281770269032786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_13
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 1182
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd2b00c93100cfe0800000000000000
+      internalID: -1170934555569607216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_14
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1182
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ef2a1b6f1654860800000000000000
+      internalID: 7513519265507638942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 985
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a78256be82a9730800000000000000
+      internalID: 4006559809979054746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 985
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c10c6df98d832c0800000000000000
+      internalID: -4451570050641421193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_17
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 985
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6249359345c37340800000000000000
+      internalID: 4860445316919935594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_18
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 985
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aefd2a4cdeb48b0800000000000000
+      internalID: -5166774718675555809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_19
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 985
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55aebfdec5c74a90800000000000000
+      internalID: -7329672376214444708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_20
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 985
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44929cf1e92505920800000000000000
+      internalID: 2976970192783485252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_21
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 985
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a9da76363247720800000000000000
+      internalID: 2842936174625790617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_22
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 985
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7e7efa2b2692f40800000000000000
+      internalID: 5704198922636355556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_23
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 985
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bfb88ddd53418d0800000000000000
+      internalID: -2876615035045807330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_24
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 985
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c261b86612a815520800000000000000
+      internalID: 2689082328575841836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_25
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 985
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5967a19a00d0a89f0800000000000000
+      internalID: -465545314991180139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_26
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 985
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e288d011139fb640800000000000000
+      internalID: 5097955004713042662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_27
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 985
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49b4b7a8a867ee30800000000000000
+      internalID: 4532706623549126988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_28
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 985
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa5e7f83cb4ccc10800000000000000
+      internalID: 2075116831609084659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_29
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 985
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4015f3a994c42c810800000000000000
+      internalID: 1784072281396302084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 788
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd039ab1bf019b5c0800000000000000
+      internalID: -4199306506859368227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 788
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cc5df93bcfcabf0800000000000000
+      internalID: -311596425784472515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_32
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 788
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c498d532764d8b50800000000000000
+      internalID: 6597006485511247048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_33
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 788
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026f2c59f22a8a100800000000000000
+      internalID: 119523715385062944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_34
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 788
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a36a8752e0825ef0800000000000000
+      internalID: -120892530365930589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_35
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 788
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149efb109fdd5c3d0800000000000000
+      internalID: -3186897099748808383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_36
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 788
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903f5ce7d1f0d2520800000000000000
+      internalID: 2678813972710683401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_37
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 788
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26d7ba9c62136de0800000000000000
+      internalID: -1341208006364768725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_38
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 788
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cd28bd5909497f0800000000000000
+      internalID: -606701076480861162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_39
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 788
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcd5d33591821070800000000000000
+      internalID: 8075659559648484572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_40
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 788
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ace5266e4a01bfa0800000000000000
+      internalID: -5786832714356888408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_41
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 788
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cf5243485256770800000000000000
+      internalID: 8603323912902016038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_42
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 788
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6cfca6b813ab8e0800000000000000
+      internalID: -1676973436379871574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_43
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 788
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b072a337e3beb90800000000000000
+      internalID: -7211601713685918870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_44
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 788
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc6ef99a69139f10800000000000000
+      internalID: 2275190182393048279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a5747a98ed71840800000000000000
+      internalID: 5194865377993513570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_46
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 591
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc83863b31134270800000000000000
+      internalID: 8233443489778732243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_47
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 591
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ff89c5773520610800000000000000
+      internalID: 1585921790907580194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_48
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 591
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889de9fe2599f5910800000000000000
+      internalID: 1828348555222243720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_49
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 591
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80c6781202c385b0800000000000000
+      internalID: -5367233016639340402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_50
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 591
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fb77feafa826f20800000000000000
+      internalID: 3414444277864316786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_51
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 591
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbb83ce632d450f0800000000000000
+      internalID: -1129046473229943854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_52
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 591
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a3e9f908f23db30800000000000000
+      internalID: 4310841497803962953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_53
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 591
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4511e219b66afc50800000000000000
+      internalID: 6699780340738757965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_54
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 591
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e181b23a817cc8010800000000000000
+      internalID: 1192546909976991774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_55
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 591
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a018bd8b8fb86fc0800000000000000
+      internalID: -3501338104181550936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_56
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 591
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e60ed031a1c523d0800000000000000
+      internalID: -3231964259514710297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_57
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 591
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385b0b2977e918ac0800000000000000
+      internalID: -3854625569653082749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_58
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 591
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e2fb0e7b9166e50800000000000000
+      internalID: 6802152564730048038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_59
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 591
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c04a08982122570800000000000000
+      internalID: 8440329033423785032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db7cb49c0d7d8e20800000000000000
+      internalID: 3354474790449347536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_61
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 394
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cd7ab424994f110800000000000000
+      internalID: 1293827502978358313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_62
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 394
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef6f81894196e170800000000000000
+      internalID: 8207407115821608934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_63
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 394
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cf697e939f4b870800000000000000
+      internalID: 8697850807453154417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_64
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 394
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d49a3d242f2fb5b0800000000000000
+      internalID: -5350505999868717867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_65
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 394
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14c5a3d3df0e6000800000000000000
+      internalID: 30979649901544474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_66
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 394
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9a5bedd575987f0800000000000000
+      internalID: -609860213851969050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_67
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 394
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f51b09895abe1e00800000000000000
+      internalID: 1017455459546371571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_68
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 394
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63ae55864825c950800000000000000
+      internalID: 6468620723137979242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_69
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 394
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf7531f988923e00800000000000000
+      internalID: 1023047783591280581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_70
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 394
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a68557831eefc0800000000000000
+      internalID: -3463809591424932002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_71
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 394
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03dc328380296780800000000000000
+      internalID: -8689378256836832502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_72
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 394
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b5dc023fe7b82f0800000000000000
+      internalID: -969541712075728054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_73
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 394
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd9f0d5d922246a0800000000000000
+      internalID: -6466568055684096557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_74
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 394
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f241e07178923000800000000000000
+      internalID: 14241361828070128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f000b9dd160b840800000000000000
+      internalID: 5237793971048025865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_76
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 197
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d758ba48d4d43180800000000000000
+      internalID: -9136443718596274224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_77
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 197
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fa695da61fe17b0800000000000000
+      internalID: -5251494674315169922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_78
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 197
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8114a9333ec4e5c0800000000000000
+      internalID: -4186995034142010995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_79
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 197
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d438dc8330531570800000000000000
+      internalID: 8436174709331604694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_80
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 197
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16900e209fff05890800000000000000
+      internalID: -7471190336847476383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_81
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 197
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0cc2703be7e1ce0800000000000000
+      internalID: -1432568324072619863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_82
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 197
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f3e473b0f5695e0800000000000000
+      internalID: -1903229290740302003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_83
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 197
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298426ae87383bf70800000000000000
+      internalID: 9201843018999679122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_84
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 197
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6713e4f41825a50800000000000000
+      internalID: 6508406589118052068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_85
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 197
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25511aad4b90390e0800000000000000
+      internalID: -2264455515270474414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_86
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 197
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c3714cfe697eda0800000000000000
+      internalID: -5915593628996649858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_87
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 197
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c1613bf590b65b0800000000000000
+      internalID: -5374191423705441192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_88
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 197
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b508d12b1d65580800000000000000
+      internalID: -8838646655738684641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_89
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 197
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f495eeafefb13830800000000000000
+      internalID: 4049228576135156980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b9aac23f0facb50800000000000000
+      internalID: 6614363929964092250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_91
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ccea2fdabc5de60800000000000000
+      internalID: 7986513462172765209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_92
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133730162b4fbd350800000000000000
+      internalID: 6042692372016624433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_93
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13454faa5b1b53950800000000000000
+      internalID: 6428239436956587057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_94
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 0
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d7a1271563787d0800000000000000
+      internalID: -2916302510264517227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_95
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 0
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18d42442c489fba0800000000000000
+      internalID: -6054662254121134049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_96
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c819111aa5188c0800000000000000
+      internalID: -3998815346297303977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_97
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 0
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695cd6fb5dc8337c0800000000000000
+      internalID: -4092772786682083946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_98
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 0
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965bc678a1acfd570800000000000000
+      internalID: 8493729637534053737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_99
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 0
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d38cd6e33bbc79b0800000000000000
+      internalID: -5080980447989824558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_100
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 0
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe48c0dfaa3755b0800000000000000
+      internalID: -5379766703074292033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_101
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 0
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc60c085c9db5990800000000000000
+      internalID: -7396078520734028583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_102
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 0
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35febeb975dfaef60800000000000000
+      internalID: 8064536635480207187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_103
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 0
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae1c8f3992de9170800000000000000
+      internalID: 8187212728244117167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell_bartender__x1_talk_right_png_1354837781_104
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 0
+        width: 244
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22d6ee1c009f4b80800000000000000
+      internalID: -8408343597544975827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 550773adcf688a64ca2533b8c6000e7e, type: 3}
+  m_Name: Spwnr_2_wave_3
+  m_EditorClassIdentifier: 
+  spawnList:
+  - {fileID: 11400000, guid: f47c3b63f74e53d4799a1fd97580ce9f, type: 2}
+  - {fileID: 11400000, guid: 47b9694106f2ff449b3286b15f5f5074, type: 2}
+  - {fileID: 11400000, guid: 1e11c1d1928fa8d4780122bb038b8a15, type: 2}
+  - {fileID: 11400000, guid: 47b9694106f2ff449b3286b15f5f5074, type: 2}
+  - {fileID: 11400000, guid: bf1029235c6500544942c8d13dc683c9, type: 2}
+  - {fileID: 11400000, guid: 47b9694106f2ff449b3286b15f5f5074, type: 2}

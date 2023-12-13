@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 9cb96d57a45ed5d41a41a3806fa8c0a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7135763116943625101
+    second: npc_jabba1__x1_turn_png_1354831127_0
+  - first:
+      213: 2299687021117386869
+    second: npc_jabba1__x1_turn_png_1354831127_1
+  - first:
+      213: -5477708486551354622
+    second: npc_jabba1__x1_turn_png_1354831127_2
+  - first:
+      213: 6583680159104068606
+    second: npc_jabba1__x1_turn_png_1354831127_3
+  - first:
+      213: 7761600470726100215
+    second: npc_jabba1__x1_turn_png_1354831127_4
+  - first:
+      213: 1994723760203710692
+    second: npc_jabba1__x1_turn_png_1354831127_5
+  - first:
+      213: -8688526782235070804
+    second: npc_jabba1__x1_turn_png_1354831127_6
+  - first:
+      213: 159479083817703146
+    second: npc_jabba1__x1_turn_0
+  - first:
+      213: -7488842395642263315
+    second: npc_jabba1__x1_turn_1
+  - first:
+      213: 1796446418239553551
+    second: npc_jabba1__x1_turn_2
+  - first:
+      213: -3782310892753685404
+    second: npc_jabba1__x1_turn_3
+  - first:
+      213: 8081738202267854799
+    second: npc_jabba1__x1_turn_4
+  - first:
+      213: -6383487890772433071
+    second: npc_jabba1__x1_turn_5
+  - first:
+      213: -3639913286602678995
+    second: npc_jabba1__x1_turn_6
+  - first:
+      213: 2994976641461733287
+    second: npc_jabba1__x1_turn_7
+  - first:
+      213: -3234720899219688195
+    second: npc_jabba1__x1_turn_8
+  - first:
+      213: -5043710578812105507
+    second: npc_jabba1__x1_turn_9
+  - first:
+      213: 6455970097413927865
+    second: npc_jabba1__x1_turn_10
+  - first:
+      213: 9178838479835175988
+    second: npc_jabba1__x1_turn_11
+  - first:
+      213: 2602354551774279914
+    second: npc_jabba1__x1_turn_12
+  - first:
+      213: 4978257792698742421
+    second: npc_jabba1__x1_turn_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_jabba1__x1_turn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 439
+        height: 201
+      alignment: 9
+      pivot: {x: 0.45560673, y: 0.5206232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae61f0cb165963200800000000000000
+      internalID: 159479083817703146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_turn_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 603
+        width: 439
+        height: 201
+      alignment: 9
+      pivot: {x: 0.50457346, y: 0.514864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de88bdcc489421890800000000000000
+      internalID: -7488842395642263315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_turn_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 439
+        height: 201
+      alignment: 9
+      pivot: {x: 0.45691234, y: 0.5251292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f000139df724ee810800000000000000
+      internalID: 1796446418239553551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_turn_3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 402
+        width: 439
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5057701, y: 0.5102272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46473575848828bc0800000000000000
+      internalID: -3782310892753685404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_turn_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 439
+        height: 201
+      alignment: 9
+      pivot: {x: 0.46874768, y: 0.5246011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc721e9731a182070800000000000000
+      internalID: 8081738202267854799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_turn_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 201
+        width: 439
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5352707, y: 0.5222939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1576082a59b4967a0800000000000000
+      internalID: -6383487890772433071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_turn_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 439
+        height: 201
+      alignment: 9
+      pivot: {x: 0.49170932, y: 0.52710193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d92d2a62e6c7dc0800000000000000
+      internalID: -3639913286602678995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_turn_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 439
+        height: 201
+      alignment: 9
+      pivot: {x: 0.53282106, y: 0.49815476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a74be8236b409920800000000000000
+      internalID: 2994976641461733287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

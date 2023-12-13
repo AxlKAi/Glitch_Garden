@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea2eb58441086ed46a6791c6ab0ada42, type: 3}
+  m_Name: SecondBuild_arrow
+  m_EditorClassIdentifier: 
+  _tutorialUIelement: {fileID: 5166586209456831266, guid: 4cdfdddb4e26b6c4a9110e2f7235ec06,
+    type: 3}
+  _timer: 5
+  _isModal: 0
+  _destroyDelay: 4

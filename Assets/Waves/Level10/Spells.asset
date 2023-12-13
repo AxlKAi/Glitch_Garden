@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e49ad519c3d05a4597d4502aa6a3baa, type: 3}
+  m_Name: Spells
+  m_EditorClassIdentifier: 
+  spawnebleSpellItemList:
+  - {fileID: 11400000, guid: ecc5d9269f67e614697d410a42a4e107, type: 2}
+  - {fileID: 11400000, guid: b7620680e3a03744f886f6e626d0cf37, type: 2}
+  - {fileID: 11400000, guid: 0b0e26257d5341d44aa988f3b15891ae, type: 2}
+  - {fileID: 11400000, guid: 1c65b82dad9d11441bd5c5111530a42c, type: 2}
+  - {fileID: 11400000, guid: 095175aa4c2062e498c75f0840f0f62d, type: 2}
+  - {fileID: 11400000, guid: b7620680e3a03744f886f6e626d0cf37, type: 2}
+  - {fileID: 11400000, guid: 68c40f2fa1c5f0f43b9c2481dc8de212, type: 2}
+  - {fileID: 11400000, guid: 0b0e26257d5341d44aa988f3b15891ae, type: 2}
+  - {fileID: 11400000, guid: ecc5d9269f67e614697d410a42a4e107, type: 2}
+  - {fileID: 11400000, guid: b7620680e3a03744f886f6e626d0cf37, type: 2}
+  - {fileID: 11400000, guid: 1c65b82dad9d11441bd5c5111530a42c, type: 2}
+  - {fileID: 11400000, guid: 68c40f2fa1c5f0f43b9c2481dc8de212, type: 2}
+  - {fileID: 11400000, guid: 095175aa4c2062e498c75f0840f0f62d, type: 2}
+  - {fileID: 11400000, guid: ecc5d9269f67e614697d410a42a4e107, type: 2}
+  - {fileID: 11400000, guid: 0b0e26257d5341d44aa988f3b15891ae, type: 2}
+  - {fileID: 11400000, guid: 1c65b82dad9d11441bd5c5111530a42c, type: 2}
+  - {fileID: 11400000, guid: b7620680e3a03744f886f6e626d0cf37, type: 2}
+  - {fileID: 11400000, guid: 095175aa4c2062e498c75f0840f0f62d, type: 2}
+  - {fileID: 11400000, guid: 68c40f2fa1c5f0f43b9c2481dc8de212, type: 2}
+  - {fileID: 11400000, guid: 0b0e26257d5341d44aa988f3b15891ae, type: 2}
+  - {fileID: 11400000, guid: ecc5d9269f67e614697d410a42a4e107, type: 2}
+  - {fileID: 11400000, guid: b7620680e3a03744f886f6e626d0cf37, type: 2}
+  - {fileID: 11400000, guid: 1c65b82dad9d11441bd5c5111530a42c, type: 2}
+  - {fileID: 11400000, guid: 68c40f2fa1c5f0f43b9c2481dc8de212, type: 2}
+  - {fileID: 11400000, guid: ecc5d9269f67e614697d410a42a4e107, type: 2}
+  - {fileID: 11400000, guid: b7620680e3a03744f886f6e626d0cf37, type: 2}
+  - {fileID: 11400000, guid: 0b0e26257d5341d44aa988f3b15891ae, type: 2}
+  - {fileID: 11400000, guid: 1c65b82dad9d11441bd5c5111530a42c, type: 2}
+  - {fileID: 11400000, guid: 50f19c5e0a2fbdd4aa99323f524dca84, type: 2}
+  - {fileID: 11400000, guid: d2ffbed107546e041a0f6bd1bbb04bf2, type: 2}
+  - {fileID: 11400000, guid: 477e17168547b394aa5dafbd36c6100c, type: 2}
+  - {fileID: 11400000, guid: b0bc9edd69efefc47b8ce0b8ea4b2c17, type: 2}
+  - {fileID: 11400000, guid: 0a4ec2a79667208428201b66cb937f3c, type: 2}
+  - {fileID: 11400000, guid: 061d9f2e7f31079409aef90ba7e00e4b, type: 2}
+  - {fileID: 11400000, guid: a0fd8ffc3101be04aa92ebf8b4289d3c, type: 2}
+  - {fileID: 11400000, guid: 3eea1f74ce577b141836a941936235d5, type: 2}
+  - {fileID: 11400000, guid: 0a4ec2a79667208428201b66cb937f3c, type: 2}
+  - {fileID: 11400000, guid: 73351a9e6f5569745918936106ec92b5, type: 2}
+  - {fileID: 11400000, guid: d6e11907503bd1147ad18416ca10e332, type: 2}
+  - {fileID: 11400000, guid: dedf2f309c57b4e4cbf075b824f93f08, type: 2}
+  - {fileID: 11400000, guid: a4812f81319004445a25a7243b7f58db, type: 2}
+  - {fileID: 11400000, guid: 061d9f2e7f31079409aef90ba7e00e4b, type: 2}
+  - {fileID: 11400000, guid: 477e17168547b394aa5dafbd36c6100c, type: 2}
+  - {fileID: 11400000, guid: b0bc9edd69efefc47b8ce0b8ea4b2c17, type: 2}
+  - {fileID: 11400000, guid: 993125af326ed704e81ab1775435ef97, type: 2}
+  - {fileID: 11400000, guid: 061d9f2e7f31079409aef90ba7e00e4b, type: 2}
+  - {fileID: 11400000, guid: a0fd8ffc3101be04aa92ebf8b4289d3c, type: 2}
+  - {fileID: 11400000, guid: 3eea1f74ce577b141836a941936235d5, type: 2}
+  - {fileID: 11400000, guid: 0a4ec2a79667208428201b66cb937f3c, type: 2}
+  - {fileID: 11400000, guid: 73351a9e6f5569745918936106ec92b5, type: 2}

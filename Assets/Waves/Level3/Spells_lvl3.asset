@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e49ad519c3d05a4597d4502aa6a3baa, type: 3}
+  m_Name: Spells_lvl3
+  m_EditorClassIdentifier: 
+  spawnebleSpellItemList:
+  - {fileID: 11400000, guid: de701aba3e0386a489719f347d17bfed, type: 2}
+  - {fileID: 11400000, guid: aeb6ffa72bc14b844b4293b7b3b6dff8, type: 2}
+  - {fileID: 11400000, guid: 4adee12122b204d4f9da8049f6aa3b5a, type: 2}
+  - {fileID: 11400000, guid: fdf677c5308ef444cb69f57a52620ae6, type: 2}
+  - {fileID: 11400000, guid: 7ca318c55f2e00b488ce212a5da57ed4, type: 2}
+  - {fileID: 11400000, guid: 83521250daa56604aa92b8e698dc8d9f, type: 2}
+  - {fileID: 11400000, guid: 85d70b7064683364f8283c31957167c5, type: 2}
+  - {fileID: 11400000, guid: 7a82c1d13aa6fe145be45e337d5feb34, type: 2}
+  - {fileID: 11400000, guid: 6f90a0f6a0460a74784da38c708eb2fb, type: 2}
+  - {fileID: 11400000, guid: 5ef86777678575746bf54f7169e97c7c, type: 2}
+  - {fileID: 11400000, guid: 68b7b2722d763374e9447d236c0543d4, type: 2}
+  - {fileID: 11400000, guid: fd233698d3878964eb12aa761fc57a3b, type: 2}
+  - {fileID: 11400000, guid: 9a247e1253f18554494d20700cc0a598, type: 2}
+  - {fileID: 11400000, guid: 48b84093462865246a9eb6c6f736e42a, type: 2}

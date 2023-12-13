@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 6f70a912301ebee468b877d88c1c3ba7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7988308771228678205
+    second: npc_jabba1__x1_impatient_png_1354831125_0
+  - first:
+      213: 5333554745149186239
+    second: npc_jabba1__x1_impatient_png_1354831125_1
+  - first:
+      213: 5666796131375045121
+    second: npc_jabba1__x1_impatient_png_1354831125_2
+  - first:
+      213: -671453169684651078
+    second: npc_jabba1__x1_impatient_png_1354831125_3
+  - first:
+      213: 9006607620129614733
+    second: npc_jabba1__x1_impatient_png_1354831125_4
+  - first:
+      213: 6309184596089267500
+    second: npc_jabba1__x1_impatient_png_1354831125_5
+  - first:
+      213: -7253973394304856605
+    second: npc_jabba1__x1_impatient_png_1354831125_6
+  - first:
+      213: 6424996952205807627
+    second: npc_jabba1__x1_impatient_png_1354831125_7
+  - first:
+      213: 1138748341413933991
+    second: npc_jabba1__x1_impatient_png_1354831125_8
+  - first:
+      213: 3182622411952636691
+    second: npc_jabba1__x1_impatient_png_1354831125_9
+  - first:
+      213: -2466104043664567477
+    second: npc_jabba1__x1_impatient_png_1354831125_10
+  - first:
+      213: 317244837139667011
+    second: npc_jabba1__x1_impatient_png_1354831125_11
+  - first:
+      213: 1197158678870353198
+    second: npc_jabba1__x1_impatient_png_1354831125_12
+  - first:
+      213: -5701497761182105477
+    second: npc_jabba1__x1_impatient_png_1354831125_13
+  - first:
+      213: 4727531963476225614
+    second: npc_jabba1__x1_impatient_png_1354831125_14
+  - first:
+      213: 8203224106077765761
+    second: npc_jabba1__x1_impatient_png_1354831125_15
+  - first:
+      213: -2545832680306345376
+    second: npc_jabba1__x1_impatient_png_1354831125_16
+  - first:
+      213: -3058083195504728931
+    second: npc_jabba1__x1_impatient_png_1354831125_17
+  - first:
+      213: -5861295611704809619
+    second: npc_jabba1__x1_impatient_png_1354831125_18
+  - first:
+      213: -8307509221015611339
+    second: npc_jabba1__x1_impatient_png_1354831125_19
+  - first:
+      213: -8512864524515148905
+    second: npc_jabba1__x1_impatient_png_1354831125_20
+  - first:
+      213: 1214975523856664531
+    second: npc_jabba1__x1_impatient_png_1354831125_21
+  - first:
+      213: -5992644779183184872
+    second: npc_jabba1__x1_impatient_png_1354831125_22
+  - first:
+      213: -7122019411869132505
+    second: npc_jabba1__x1_impatient_png_1354831125_23
+  - first:
+      213: 673337894616177052
+    second: npc_jabba1__x1_impatient_png_1354831125_24
+  - first:
+      213: -3154030656843758465
+    second: npc_jabba1__x1_impatient_png_1354831125_25
+  - first:
+      213: 9128196588687703228
+    second: npc_jabba1__x1_impatient_png_1354831125_26
+  - first:
+      213: 6062661537718153869
+    second: npc_jabba1__x1_impatient_png_1354831125_27
+  - first:
+      213: -3486963195899404121
+    second: npc_jabba1__x1_impatient_png_1354831125_28
+  - first:
+      213: -2042981752896408257
+    second: npc_jabba1__x1_impatient_png_1354831125_29
+  - first:
+      213: -1554952178846527888
+    second: npc_jabba1__x1_impatient_png_1354831125_30
+  - first:
+      213: -5086400694765593358
+    second: npc_jabba1__x1_impatient_png_1354831125_31
+  - first:
+      213: 1503442208116534917
+    second: npc_jabba1__x1_impatient_png_1354831125_32
+  - first:
+      213: -39147966893519060
+    second: npc_jabba1__x1_impatient_png_1354831125_33
+  - first:
+      213: 5305486155832163087
+    second: npc_jabba1__x1_impatient_png_1354831125_34
+  - first:
+      213: -3892473671931703591
+    second: npc_jabba1__x1_impatient_png_1354831125_35
+  - first:
+      213: 7795694541997399579
+    second: npc_jabba1__x1_impatient_png_1354831125_36
+  - first:
+      213: 6329450266902841317
+    second: npc_jabba1__x1_impatient_png_1354831125_37
+  - first:
+      213: -4039864381695965925
+    second: npc_jabba1__x1_impatient_png_1354831125_38
+  - first:
+      213: 822075844468543503
+    second: npc_jabba1__x1_impatient_png_1354831125_39
+  - first:
+      213: -5766862558694800531
+    second: npc_jabba1__x1_impatient_png_1354831125_40
+  - first:
+      213: 7291026224683088952
+    second: npc_jabba1__x1_impatient_png_1354831125_41
+  - first:
+      213: 2529833700014577269
+    second: npc_jabba1__x1_impatient_png_1354831125_42
+  - first:
+      213: -8567610967974118635
+    second: npc_jabba1__x1_impatient_png_1354831125_43
+  - first:
+      213: -2614891538108225191
+    second: npc_jabba1__x1_impatient_png_1354831125_44
+  - first:
+      213: 6482812332734249100
+    second: npc_jabba1__x1_impatient_png_1354831125_45
+  - first:
+      213: 5485202756608972757
+    second: npc_jabba1__x1_impatient_png_1354831125_46
+  - first:
+      213: 3847798774011686555
+    second: npc_jabba1__x1_impatient_png_1354831125_47
+  - first:
+      213: 4037896779716012346
+    second: npc_jabba1__x1_impatient_png_1354831125_48
+  - first:
+      213: 3930555667791508693
+    second: npc_jabba1__x1_impatient_png_1354831125_49
+  - first:
+      213: -4796594093112964496
+    second: npc_jabba1__x1_impatient_png_1354831125_50
+  - first:
+      213: -2894534166058428668
+    second: npc_jabba1__x1_impatient_png_1354831125_51
+  - first:
+      213: -3429894649814106229
+    second: npc_jabba1__x1_impatient_png_1354831125_52
+  - first:
+      213: -4425582621707609295
+    second: npc_jabba1__x1_impatient_png_1354831125_53
+  - first:
+      213: 4336856938485174242
+    second: npc_jabba1__x1_impatient_png_1354831125_54
+  - first:
+      213: 4990157675786849604
+    second: npc_jabba1__x1_impatient_png_1354831125_55
+  - first:
+      213: 3129321756423967788
+    second: npc_jabba1__x1_impatient_png_1354831125_56
+  - first:
+      213: -6271156241360173256
+    second: npc_jabba1__x1_impatient_png_1354831125_57
+  - first:
+      213: -7007412656039302938
+    second: npc_jabba1__x1_impatient_png_1354831125_58
+  - first:
+      213: 1496942319333510354
+    second: npc_jabba1__x1_impatient_png_1354831125_59
+  - first:
+      213: 6626365970159386762
+    second: npc_jabba1__x1_impatient_png_1354831125_60
+  - first:
+      213: -8451974543789068979
+    second: npc_jabba1__x1_impatient_png_1354831125_61
+  - first:
+      213: -3802542031390098320
+    second: npc_jabba1__x1_impatient_png_1354831125_62
+  - first:
+      213: -3235312104950770434
+    second: npc_jabba1__x1_impatient_png_1354831125_63
+  - first:
+      213: -2888093690775619801
+    second: npc_jabba1__x1_impatient_png_1354831125_64
+  - first:
+      213: -964650030056675114
+    second: npc_jabba1__x1_impatient_png_1354831125_65
+  - first:
+      213: 4026891445231255064
+    second: npc_jabba1__x1_impatient_png_1354831125_66
+  - first:
+      213: 9159740129135960475
+    second: npc_jabba1__x1_impatient_png_1354831125_67
+  - first:
+      213: -6245886984148161302
+    second: npc_jabba1__x1_impatient_png_1354831125_68
+  - first:
+      213: 59237180651617342
+    second: npc_jabba1__x1_impatient_png_1354831125_69
+  - first:
+      213: -5358596062745137991
+    second: npc_jabba1__x1_impatient_png_1354831125_70
+  - first:
+      213: -4244255329755977001
+    second: npc_jabba1__x1_impatient_png_1354831125_71
+  - first:
+      213: -2323007489398597771
+    second: npc_jabba1__x1_impatient_png_1354831125_72
+  - first:
+      213: -3493329410821044611
+    second: npc_jabba1__x1_impatient_png_1354831125_73
+  - first:
+      213: -5515869711447782422
+    second: npc_jabba1__x1_impatient_png_1354831125_74
+  - first:
+      213: -8128224270349401244
+    second: npc_jabba1__x1_impatient_png_1354831125_75
+  - first:
+      213: 6488316505272400440
+    second: npc_jabba1__x1_impatient_png_1354831125_76
+  - first:
+      213: -959882095782871978
+    second: npc_jabba1__x1_impatient_png_1354831125_77
+  - first:
+      213: 1791293960909347485
+    second: npc_jabba1__x1_impatient_png_1354831125_78
+  - first:
+      213: -5725904161293877448
+    second: npc_jabba1__x1_impatient_png_1354831125_79
+  - first:
+      213: -6089416975882888251
+    second: npc_jabba1__x1_impatient_png_1354831125_80
+  - first:
+      213: -3485518466903268311
+    second: npc_jabba1__x1_impatient_png_1354831125_81
+  - first:
+      213: 6786110150204694056
+    second: npc_jabba1__x1_impatient_png_1354831125_82
+  - first:
+      213: -8965356081522732851
+    second: npc_jabba1__x1_impatient_png_1354831125_83
+  - first:
+      213: -5548898532909691040
+    second: npc_jabba1__x1_impatient_png_1354831125_84
+  - first:
+      213: -5086233517528935208
+    second: npc_jabba1__x1_impatient_png_1354831125_85
+  - first:
+      213: -343239883719996393
+    second: npc_jabba1__x1_impatient_png_1354831125_86
+  - first:
+      213: 9200474394005478504
+    second: npc_jabba1__x1_impatient_png_1354831125_87
+  - first:
+      213: -7752917310380156058
+    second: npc_jabba1__x1_impatient_png_1354831125_88
+  - first:
+      213: -6949140715405805508
+    second: npc_jabba1__x1_impatient_png_1354831125_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c707c61f73d32190800000000000000
+      internalID: -7988308771228678205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb067b648c7940a40800000000000000
+      internalID: 5333554745149186239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_2
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ada29be0184ae40800000000000000
+      internalID: 5666796131375045121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_3
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3e2a156e48ea6f0800000000000000
+      internalID: -671453169684651078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_4
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8be62559e5edfc70800000000000000
+      internalID: 9006607620129614733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_5
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25644076f9be8750800000000000000
+      internalID: 6309184596089267500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_6
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed035e81a5b45b90800000000000000
+      internalID: -7253973394304856605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_7
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00d13bdfac2a2950800000000000000
+      internalID: 6424996952205807627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_8
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3fa8a4595adcf00800000000000000
+      internalID: 1138748341413933991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31342aea832fa2c20800000000000000
+      internalID: 3182622411952636691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4318323073a6cdd0800000000000000
+      internalID: -2466104043664567477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_11
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3485980af74176400800000000000000
+      internalID: 317244837139667011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_12
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25e7d1c9792d9010800000000000000
+      internalID: 1197158678870353198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_13
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b704e097ef530e0b0800000000000000
+      internalID: -5701497761182105477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_14
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e2e43f5419b9140800000000000000
+      internalID: 4727531963476225614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_15
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180cfa7acd4b7d170800000000000000
+      internalID: 8203224106077765761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_16
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a72c86aa26bacd0800000000000000
+      internalID: -2545832680306345376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_17
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94695e39818f85d0800000000000000
+      internalID: -3058083195504728931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6767c412be78aea0800000000000000
+      internalID: -5861295611704809619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5381519e06cc5bc80800000000000000
+      internalID: -8307509221015611339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_20
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bff3b61da3cd980800000000000000
+      internalID: -8512864524515148905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_21
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7454e3dc57cd010800000000000000
+      internalID: 1214975523856664531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_22
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814efafd259d5dca0800000000000000
+      internalID: -5992644779183184872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_23
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7299a183411892d90800000000000000
+      internalID: -7122019411869132505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_24
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9918666f3d285900800000000000000
+      internalID: 673337894616177052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_25
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74c22014d1aa34d0800000000000000
+      internalID: -3154030656843758465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_26
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcb9a42f6eddae70800000000000000
+      internalID: 9128196588687703228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d823d151c86e22450800000000000000
+      internalID: 6062661537718153869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_28
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a02e83b271db9fc0800000000000000
+      internalID: -3486963195899404121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_29
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3531008beed5a3e0800000000000000
+      internalID: -2042981752896408257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_30
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e02295b33bb6ae0800000000000000
+      internalID: -1554952178846527888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_31
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc523b54897969b0800000000000000
+      internalID: -5086400694765593358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_32
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e6d1309bc4dd410800000000000000
+      internalID: 1503442208116534917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_33
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f02aba12be47ff0800000000000000
+      internalID: -39147966893519060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_34
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bf02f8c8fd0a940800000000000000
+      internalID: 5305486155832163087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_35
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de43fe81d72bf9c0800000000000000
+      internalID: -3892473671931703591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ed431f1eedf2c60800000000000000
+      internalID: 7795694541997399579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_37
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7ce3e9b79b6d750800000000000000
+      internalID: 6329450266902841317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_38
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15424cbfb48fe7c0800000000000000
+      internalID: -4039864381695965925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_39
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f001affff99986b00800000000000000
+      internalID: 822075844468543503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_40
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d630f789e0df7ffa0800000000000000
+      internalID: -5766862558694800531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_41
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cfa4ac8bdee2560800000000000000
+      internalID: 7291026224683088952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_42
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5765e26b856cb1320800000000000000
+      internalID: 2529833700014577269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_43
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b7920c73bb91980800000000000000
+      internalID: -8567610967974118635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_44
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95962e8100a06bbd0800000000000000
+      internalID: -2614891538108225191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88752e187397f950800000000000000
+      internalID: 6482812332734249100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_46
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7dba468da5f1c40800000000000000
+      internalID: 5485202756608972757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_47
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e66243990266530800000000000000
+      internalID: 3847798774011686555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_48
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39aaaa3abd790830800000000000000
+      internalID: 4037896779716012346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_49
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d47c9c0e832c8630800000000000000
+      internalID: 3930555667791508693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_50
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ac344f5131f6db0800000000000000
+      internalID: -4796594093112964496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_51
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4071bd9038c84d7d0800000000000000
+      internalID: -2894534166058428668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_52
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f31d40df09660d0800000000000000
+      internalID: -3429894649814106229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_53
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bd9f4ad0c2592c0800000000000000
+      internalID: -4425582621707609295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efc81c686c9f2c30800000000000000
+      internalID: 4336856938485174242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_55
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dc67697f9904540800000000000000
+      internalID: 4990157675786849604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_56
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c245d8fbe859d6b20800000000000000
+      internalID: 3129321756423967788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_57
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837c0cedf9068f8a0800000000000000
+      internalID: -6271156241360173256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_58
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e86332f05ba0ce90800000000000000
+      internalID: -7007412656039302938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_59
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc8f19bb1536c410800000000000000
+      internalID: 1496942319333510354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_60
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80461bedb495fb50800000000000000
+      internalID: 6626365970159386762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_61
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4deec2deed84ba80800000000000000
+      internalID: -8451974543789068979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_62
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c308f4b28aa3bc0800000000000000
+      internalID: -3802542031390098320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef453ee28ccd913d0800000000000000
+      internalID: -3235312104950770434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_64
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727b54b071e6be7d0800000000000000
+      internalID: -2888093690775619801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_65
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8e6e998efdc92f0800000000000000
+      internalID: -964650030056675114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_66
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e711e1f6462e730800000000000000
+      internalID: 4026891445231255064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_67
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b912a08fd1fed1f70800000000000000
+      internalID: 9159740129135960475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_68
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecec9a41e62259a0800000000000000
+      internalID: -6245886984148161302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_69
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c3c36e6e372d000800000000000000
+      internalID: 59237180651617342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_70
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bce441a54172a5b0800000000000000
+      internalID: -5358596062745137991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_71
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da26ddb3406915c0800000000000000
+      internalID: -4244255329755977001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57713d70ff403cfd0800000000000000
+      internalID: -2323007489398597771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_73
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d764698c863358fc0800000000000000
+      internalID: -3493329410821044611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_74
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb81d5c8b1b373b0800000000000000
+      internalID: -5515869711447782422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_75
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4638d1f571fb23f80800000000000000
+      internalID: -8128224270349401244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_76
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ab0172c712b0a50800000000000000
+      internalID: 6488316505272400440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_77
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cba9ec150dda2f0800000000000000
+      internalID: -959882095782871978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_78
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9add44ed54fbd810800000000000000
+      internalID: 1791293960909347485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_79
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fb520a0808980b0800000000000000
+      internalID: -5725904161293877448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_80
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb5447068b0e7ba0800000000000000
+      internalID: -6089416975882888251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924aa22eb63f0afc0800000000000000
+      internalID: -3485518466903268311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_82
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e9f9d2a3b1d2e50800000000000000
+      internalID: 6786110150204694056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_83
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc013f3f428a49380800000000000000
+      internalID: -8965356081522732851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_84
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f4b330f2a5ef2b0800000000000000
+      internalID: -5548898532909691040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_85
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4900750911a69b0800000000000000
+      internalID: -5086233517528935208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_86
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c8f12f4219c3bf0800000000000000
+      internalID: -343239883719996393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_87
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c16c317b6aeaf70800000000000000
+      internalID: 9200474394005478504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_88
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b50dd68ca186490800000000000000
+      internalID: -7752917310380156058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_jabba1__x1_impatient_png_1354831125_89
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3878046651bf8f90800000000000000
+      internalID: -6949140715405805508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

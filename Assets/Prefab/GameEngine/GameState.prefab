@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8068105006093341876
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8068105006093341882}
+  - component: {fileID: 8068105006093341877}
+  - component: {fileID: 1588933402}
+  - component: {fileID: 1276117310747753354}
+  m_Layer: 0
+  m_Name: GameState
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8068105006093341882
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8068105006093341876}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 7.1864896, y: 0.63359165, z: -2.8926709}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8068105006093341877
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8068105006093341876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ab419121de627f4eae6d2108743a76a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inputLayerMask:
+    serializedVersion: 2
+    m_Bits: 1
+  _tutorialController: {fileID: 0}
+  _easyDifficulty: 0
+  starsUI: {fileID: 0}
+  lifesUI: {fileID: 0}
+  startStarsAmmount: 4000
+  lifesInLevel: 5
+  allSpells:
+  - id: 1
+    name: Health
+    icon: {fileID: 21300000, guid: ee1724ab630d24cebb282289abcf17e1, type: 3}
+    mouseCursor: {fileID: 21300000, guid: ee1724ab630d24cebb282289abcf17e1, type: 3}
+    particle: {fileID: 2659694600723335736, guid: ad92c31a79200314e84f0deb3ec987b1,
+      type: 3}
+    spellPower: 100
+    spellRange: 0
+    spellTime: 0
+  - id: 2
+    name: FireFlash
+    icon: {fileID: 21300000, guid: 7c844ea34185c4a9182720e8671d417e, type: 3}
+    mouseCursor: {fileID: 21300000, guid: 7c844ea34185c4a9182720e8671d417e, type: 3}
+    particle: {fileID: 4686672012922662252, guid: 493e9ba0462b14a4fb8a7bee2f25e6ff,
+      type: 3}
+    spellPower: 30
+    spellRange: 0.7
+    spellTime: 0
+  - id: 3
+    name: Slow
+    icon: {fileID: 21300000, guid: 2b2a034aa25ce4f7a818bb0df99f6ccc, type: 3}
+    mouseCursor: {fileID: 21300000, guid: 2b2a034aa25ce4f7a818bb0df99f6ccc, type: 3}
+    particle: {fileID: 2500428709884054535, guid: 318734e395ae6374d873493bd60ad7c9,
+      type: 3}
+    spellPower: 5
+    spellRange: 0.7
+    spellTime: 7
+  - id: 4
+    name: Freeze
+    icon: {fileID: 21300000, guid: 2cc42ba925fd5421fa0bae958962b79b, type: 3}
+    mouseCursor: {fileID: 21300000, guid: 2cc42ba925fd5421fa0bae958962b79b, type: 3}
+    particle: {fileID: 19800004, guid: 1561f763211c6274e828047519f00bea, type: 3}
+    spellPower: 5
+    spellRange: 0.7
+    spellTime: 7
+  spell_itemPref: {fileID: 6608557879539105437, guid: 584aede39aa483248aa35be49fd1f9d3,
+    type: 3}
+  starsItemPref: {fileID: 7110578940015974947, guid: b9c0e1251ef6699458702f356a039594,
+    type: 3}
+  pickableLayerNum: 12
+--- !u!114 &1588933402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8068105006093341876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33e0ff97bd747f74db12a85ba6c25636, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1276117310747753354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8068105006093341876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36336895b599c754ca8b4254b1c52ecd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

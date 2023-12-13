@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 550773adcf688a64ca2533b8c6000e7e, type: 3}
+  m_Name: Spwnr_5_wave_1
+  m_EditorClassIdentifier: 
+  spawnList:
+  - {fileID: 11400000, guid: dc4c78b55c68315449284b1dae5c8bc6, type: 2}
+  - {fileID: 11400000, guid: 4335158568331354b8109bb2abd0ca4a, type: 2}
+  - {fileID: 11400000, guid: 23734fd39c5470941a5444d11c1bfb23, type: 2}
+  - {fileID: 11400000, guid: 23eecdb93fe91bc42800daad9ab8d812, type: 2}
+  - {fileID: 11400000, guid: 4335158568331354b8109bb2abd0ca4a, type: 2}
+  - {fileID: 11400000, guid: c18dc3514793d0d48bdf220ff0ea3152, type: 2}
+  - {fileID: 11400000, guid: 3781699b72af11049bce591796dc3e16, type: 2}
+  - {fileID: 11400000, guid: 23eecdb93fe91bc42800daad9ab8d812, type: 2}
+  - {fileID: 11400000, guid: 8d811a5ee908c8f468e35d2f5ed18f0d, type: 2}
+  - {fileID: 11400000, guid: 6a50247e5aafbe64bbcab14e0866b4ed, type: 2}
+  - {fileID: 11400000, guid: 8ffe1abd9c5557f408bb7b25454a728b, type: 2}
+  - {fileID: 11400000, guid: 77b49efc228183943a84134525639823, type: 2}
