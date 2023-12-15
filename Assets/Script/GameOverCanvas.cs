@@ -5,23 +5,14 @@ public class GameOverCanvas : MonoBehaviour
 {
     GameState gameState;
 
-    [SerializeField]
-    TextMeshProUGUI textUI;
+    [SerializeField] private TextMeshProUGUI textUI;
+    [SerializeField] private RestartButtonUI restartButtonUI;
+    [SerializeField] private MainMenuButtonUI mainMenuButtonUI;
+    [SerializeField] private NextLevelButtonUI nextLevelButtonUI;
+    [SerializeField] private TextMeshProUGUI starsTotalUI;
+    [SerializeField] private TextMeshProUGUI killsTotalUI;
 
-    [SerializeField]
-    RestartButtonUI restartButtonUI;
-
-    [SerializeField]
-    MainMenuButtonUI mainMenuButtonUI;
-
-    [SerializeField]
-    NextLevelButtonUI nextLevelButtonUI;
-
-    [SerializeField]
-    TextMeshProUGUI starsTotalUI;
-
-    [SerializeField]
-    TextMeshProUGUI killsTotalUI;
+    
 
     public void TurnOn()
     {       
@@ -38,5 +29,13 @@ public class GameOverCanvas : MonoBehaviour
         mainMenuButtonUI.gameObject.SetActive(false);
         nextLevelButtonUI.gameObject.SetActive(true);
         textUI.text = "You are WIN!";
+
+        gameState.SpellModeOff();
+        gameState.BuildModeOff();
+
+        var dropMouseClick = transform.GetComponentInChildren<DropMouseClick>();
+        dropMouseClick.TurnOffAllElements();
+        gameState.RegisterModalWindow();
+        gameState.SetNormalGameSpeed();
     }
 }

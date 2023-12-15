@@ -1,6 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.UI;
 
 public class DropMouseClick : MonoBehaviour
 {
@@ -8,13 +7,20 @@ public class DropMouseClick : MonoBehaviour
     private SpellBarButton[] spellButtons;
     private DefenderBuildZone defenderBuildZone;
     private GameState gameState;
+    private NormalSpeedButtonUI _normalSpeedButtonUI;
+    private DoubleSpeedButtonUI _doubleSpeedButtonUI;
+    private OptionButtonUI _optionButtonUI;
+
 
     private void Start()
     {
         FindAllDefenderButtons();
         FindAllSpellButtons();
         defenderBuildZone = FindObjectOfType<DefenderBuildZone>();
-        gameState = GameState._instance; 
+        gameState = GameState._instance;
+        _normalSpeedButtonUI = FindObjectOfType<NormalSpeedButtonUI>();
+        _doubleSpeedButtonUI = FindObjectOfType<DoubleSpeedButtonUI>();
+        _optionButtonUI = FindObjectOfType<OptionButtonUI>();
     }
 
     public void DropClick()
@@ -79,6 +85,7 @@ public class DropMouseClick : MonoBehaviour
         TurnOffDefenderButtons();
         TurnOffSpellButtons();
         TurnOffBattlefield();
+        TurnOffGameSpeedButtons();
     }
 
     public void TurnOnAllElements()
@@ -89,5 +96,19 @@ public class DropMouseClick : MonoBehaviour
         TurnOnDefenderButtons();
         TurnOnSpellButtons();
         TurnOnBattlefield();
+        TurnOnGameSpeedButtons();
+    }
+
+    private void TurnOffGameSpeedButtons()
+    {
+        _doubleSpeedButtonUI.GetComponent<Button>().interactable = false;
+        _normalSpeedButtonUI.GetComponent<Button>().interactable = false;
+        _optionButtonUI.GetComponent<Button>().interactable = false;
+    }
+    private void TurnOnGameSpeedButtons()
+    {
+        _doubleSpeedButtonUI.GetComponent<Button>().interactable = true;
+        _normalSpeedButtonUI.GetComponent<Button>().interactable = true;
+        _optionButtonUI.GetComponent<Button>().interactable = true;
     }
 }
