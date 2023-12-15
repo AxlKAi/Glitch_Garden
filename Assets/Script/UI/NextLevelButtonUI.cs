@@ -12,7 +12,7 @@ public class NextLevelButtonUI : MonoBehaviour
         levelManager = FindObjectOfType<LevelManager>();
     }
 
-    private void OnMouseDown()
+    public void LoadNextScene()
     {
         levelManager.LoadNextScene();
     }
