@@ -12,7 +12,7 @@ public class MainMenuButtonUI : MonoBehaviour
         levelManager = FindObjectOfType<LevelManager>();
     }
 
-    private void OnMouseDown()
+    public void LoadMainMenu()
     {
         levelManager.LoadMainMenu();
     }

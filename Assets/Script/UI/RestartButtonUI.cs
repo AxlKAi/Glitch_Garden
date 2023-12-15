@@ -12,7 +12,7 @@ public class RestartButtonUI : MonoBehaviour
         levelManager = FindObjectOfType<LevelManager>();            
     }
 
-    private void OnMouseDown()
+    public void RestartLevel()
     {
         levelManager.RestartLevel();
     }
