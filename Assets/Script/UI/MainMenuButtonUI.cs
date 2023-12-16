@@ -5,15 +5,19 @@ using UnityEngine;
 public class MainMenuButtonUI : MonoBehaviour
 {
 
-    LevelManager levelManager;
+    GameState _gameState;
+    LevelManager _levelManager;
+
     // Start is called before the first frame update
     void Start()
     {
-        levelManager = FindObjectOfType<LevelManager>();
+        _gameState = FindObjectOfType<GameState>();
+        _levelManager = FindObjectOfType<LevelManager>();
     }
 
     public void LoadMainMenu()
     {
-        levelManager.LoadMainMenu();
+        _gameState.SetNormalGameSpeed();
+        _levelManager.LoadMainMenu();
     }
 }

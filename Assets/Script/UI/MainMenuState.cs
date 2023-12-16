@@ -4,12 +4,6 @@ using DG.Tweening;
 
 public class MainMenuState : MonoBehaviour
 {
-    //реалзовать 3 состояния главного меню
-    //  1-активны основные кнопки
-    //  2-активно окно карты уровней
-    //  3-окно опций
-    // Start is called before the first frame update
-
     public enum State
     {
         MainButtons, LevelsMap, Options

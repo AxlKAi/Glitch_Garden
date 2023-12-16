@@ -77,6 +77,4 @@ public class Spell_item : MonoBehaviour
             Destroy(gameObject);
         }        
     }
-
-
 }

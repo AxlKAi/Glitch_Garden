@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 672209793}
   - component: {fileID: 672209792}
   - component: {fileID: 672209791}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Sparks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4765,7 +4765,7 @@ GameObject:
   - component: {fileID: 1098299134}
   - component: {fileID: 1098299133}
   - component: {fileID: 1098299132}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Sparks_flying
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9522,7 +9522,7 @@ GameObject:
   - component: {fileID: 8975986092390380815}
   - component: {fileID: 6608557879539105437}
   - component: {fileID: -7559910788034114077}
-  m_Layer: 12
+  m_Layer: 10
   m_Name: Spell_item
   m_TagString: Untagged
   m_Icon: {fileID: 0}

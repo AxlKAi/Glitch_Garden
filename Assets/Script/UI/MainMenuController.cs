@@ -6,7 +6,6 @@ public class MainMenuController : MonoBehaviour
 {
     private MainMenuState _mainMenuState;
 
-    // Start is called before the first frame update
     void Start()
     {
         if (TryGetComponent<MainMenuState>(out MainMenuState state))
