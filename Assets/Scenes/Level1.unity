@@ -1412,7 +1412,7 @@ PrefabInstance:
     - target: {fileID: 2682931188088036943, guid: aa281262b39c968448d8a3908f05501c,
         type: 3}
       propertyPath: attakers.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2682931188088036943, guid: aa281262b39c968448d8a3908f05501c,
         type: 3}
@@ -1424,13 +1424,13 @@ PrefabInstance:
         type: 3}
       propertyPath: attakers.Array.data[0]
       value: 
-      objectReference: {fileID: 11400000, guid: 5edf507c35f30da45b3b361f888509ab,
+      objectReference: {fileID: 11400000, guid: 36a716d329657064e8a35236e30d8435,
         type: 2}
     - target: {fileID: 2682931188088036943, guid: aa281262b39c968448d8a3908f05501c,
         type: 3}
       propertyPath: attakers.Array.data[1]
       value: 
-      objectReference: {fileID: 11400000, guid: 5edf507c35f30da45b3b361f888509ab,
+      objectReference: {fileID: 11400000, guid: 74ac36132d879f44a8abd8bf9974641e,
         type: 2}
     - target: {fileID: 2682931188088036943, guid: aa281262b39c968448d8a3908f05501c,
         type: 3}
