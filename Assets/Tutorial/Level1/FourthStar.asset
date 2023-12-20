@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _tutorialUIelement: {fileID: 1587736582447521568, guid: d60a72229a5d13942ab4feb3f5324caa,
     type: 3}
-  _timer: 15
+  _timer: 9
   _isModal: 0
   _destroyDelay: 4

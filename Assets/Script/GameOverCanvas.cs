@@ -51,6 +51,8 @@ public class GameOverCanvas : MonoBehaviour
 
     private void Start()
     {
+        gameState = FindObjectOfType<GameState>();
+
         _windowTransform = transform.GetChild(0).gameObject.transform;
 
         _windowScale = _windowTransform.localScale;

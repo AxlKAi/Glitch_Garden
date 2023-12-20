@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ea2eb58441086ed46a6791c6ab0ada42, type: 3}
-  m_Name: SecondStar
+  m_Name: StarsAmmount
   m_EditorClassIdentifier: 
-  _tutorialUIelement: {fileID: 3392716680621691111, guid: 95248169fa904ab4b8db1dd67607f20c,
+  _tutorialUIelement: {fileID: 139577968763449939, guid: fb76edf748fe9c84d98eb1f831ec1d3b,
     type: 3}
-  _timer: 10
+  _timer: 5
   _isModal: 0
   _destroyDelay: 4
