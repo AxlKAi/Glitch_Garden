@@ -1,7 +1,5 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
 
 public class GameState : MonoBehaviour
 {
@@ -77,7 +75,7 @@ public class GameState : MonoBehaviour
 
     private int modalWindowCount = 0; // if some modal window is open right now, than > 0
 
-    private int maxTimeScale = 4;
+    private int maxGameSpeed = 16;
 
     // Start is called before the first frame update
     void Start()
@@ -450,7 +448,7 @@ public class GameState : MonoBehaviour
 
     public void SetDoubleGameSpeed()
     {
-        if ((int)Time.timeScale < maxTimeScale)
+        if ((int)Time.timeScale < maxGameSpeed)
             Time.timeScale = Time.timeScale * 2;
     }
 
