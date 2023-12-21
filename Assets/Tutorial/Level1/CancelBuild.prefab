@@ -64,11 +64,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'To cancel build mode
-
-    press RBM -
-
-    (Right Mouse Button)'
+  m_text: "\u0414\u043B\u044F \u043E\u0442\u043C\u0435\u043D\u044B \u043D\u0430\u0436\u043C\u0438\u0442\u0435
+    \n\u041F\u041A\u041C - \u043F\u0440\u0430\u0432\u0443\u044E \n\u043A\u043D\u043E\u043F\u043A\u0443
+    \u043C\u044B\u0448\u043A\u0438"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 6fe0b73bb7016e043ba5072595b9e393, type: 2}
   m_sharedMaterial: {fileID: -6733560312552693619, guid: 6fe0b73bb7016e043ba5072595b9e393,
@@ -172,7 +170,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -160}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 283, y: 764}
+  m_AnchoredPosition: {x: 228, y: 730}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6420798705621638191
@@ -263,7 +261,7 @@ GameObject:
   - component: {fileID: 6933908527848296171}
   - component: {fileID: 667251322132559905}
   m_Layer: 5
-  m_Name: Image (1)
+  m_Name: Arrow2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -285,7 +283,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -134.113}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 360, y: 628}
+  m_AnchoredPosition: {x: 289, y: 595}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6933908527848296171
@@ -393,7 +391,7 @@ GameObject:
   - component: {fileID: 4690945880190297036}
   - component: {fileID: 4884017274520327249}
   m_Layer: 5
-  m_Name: Image (2)
+  m_Name: Arrow3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -415,7 +413,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -100}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 505, y: 556}
+  m_AnchoredPosition: {x: 456, y: 540}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4690945880190297036

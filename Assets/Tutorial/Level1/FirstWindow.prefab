@@ -108,7 +108,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -335, y: 391}
+  m_AnchoredPosition: {x: -161, y: 377}
   m_SizeDelta: {x: 643.2757, y: 74.467545}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &643927061
@@ -151,7 +151,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Enemy Countdown
+  m_Text: "\u041E\u0447\u043A\u0438 \u0437\u0430\u0449\u0438\u0442\u044B"
 --- !u!1 &793601108
 GameObject:
   m_ObjectHideFlags: 0
@@ -229,7 +229,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Stars ammount
+  m_Text: "\u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u0437\u0432\u0435\u0437\u0434"
 --- !u!1 &1070544798
 GameObject:
   m_ObjectHideFlags: 0
@@ -264,8 +264,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 538, y: 336}
-  m_SizeDelta: {x: 643.2757, y: 74.467545}
+  m_AnchoredPosition: {x: 447, y: 326}
+  m_SizeDelta: {x: 742.07855, y: 74.467545}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1070544801
 CanvasRenderer:
@@ -301,13 +301,14 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 0
     m_MaxSize: 83
-    m_Alignment: 3
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Level progressbar
+  m_Text: "\u0428\u043A\u0430\u043B\u0430 \u043F\u0440\u043E\u0433\u0440\u0435\u0441\u0441\u0430
+    \u0443\u0440\u043E\u0432\u043D\u044F"
 --- !u!1 &1492965174
 GameObject:
   m_ObjectHideFlags: 0
@@ -519,10 +520,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'This is youre STARS ammaunt.
-
-
-    Spend stars to build defenders.'
+  m_Text: "\u0421\u043E\u0431\u0438\u0440\u0430\u0439\u0442\u0435 \u0437\u0432\u0435\u0437\u0434\u044B
+    \u043D\u0430 \u043F\u043E\u043B\u0435 \u0431\u0438\u0442\u0432\u044B, \u0437\u0430
+    \u043D\u0438\u0445 \u0432\u044B \u0441\u043C\u043E\u0436\u0435\u0442\u0435 \u043A\u0443\u043F\u0438\u0442\u044C
+    \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u043E\u0432. "
 --- !u!1 &1650508553
 GameObject:
   m_ObjectHideFlags: 0
@@ -674,7 +675,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: This progress bar show counters of all enemy.
+  m_Text: "\u0414\u0430\u043D\u043D\u0430\u044F \u0448\u043A\u0430\u043B\u0430 \u043F\u0440\u043E\u0433\u0440\u0435\u0441\u0441\u0435
+    \u043F\u0440\u043E\u0434\u0432\u0438\u0433\u0430\u0435\u0442\u0441\u044F \u043F\u043E
+    \u043C\u0435\u0440\u0435 \u0443\u043D\u0438\u0447\u0442\u043E\u0436\u0435\u043D\u0438\u044F
+    \u043F\u0440\u043E\u0442\u0438\u0432\u043D\u0438\u043A\u0430.\n\n\u041F\u0440\u0438
+    \u0436\u0435\u043B\u0430\u043D\u0438\u0438 \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u044C
+    \u0438\u0433\u0440\u044B \u043C\u043E\u0436\u043D\u043E \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0442\u044C."
 --- !u!1 &2040831801
 GameObject:
   m_ObjectHideFlags: 0
@@ -893,7 +899,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: contunue
+  m_Text: "\u0434\u0430\u043B\u0435\u0435"
 --- !u!1 &521451334127053888
 GameObject:
   m_ObjectHideFlags: 0
@@ -1673,7 +1679,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: contunue
+  m_Text: "\u0434\u0430\u043B\u0435\u0435"
 --- !u!1 &3747530338342095145
 GameObject:
   m_ObjectHideFlags: 0
@@ -1880,7 +1886,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: contunue
+  m_Text: "\u0434\u0430\u043B\u0435\u0435"
 --- !u!1 &4025436265016726408
 GameObject:
   m_ObjectHideFlags: 0
@@ -2490,8 +2496,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "If enemy cross final line, on point will be decresed. \n\nIf you lost
-    all points, you will lose the game."
+  m_Text: "\u0415\u0441\u043B\u0438 \u043F\u0440\u043E\u0442\u0438\u0432\u043D\u0438\u043A
+    \u043F\u0435\u0440\u0435\u0441\u0435\u0447\u0435\u0442 \u043B\u0435\u0432\u0443\u044E
+    \u0433\u0440\u0430\u043D\u0438\u0446\u0443 \u043F\u043E\u043B\u044F, \u0432\u044B
+    \u043F\u043E\u0442\u0435\u0440\u044F\u0435\u0442\u0435 \u043E\u0434\u043D\u043E
+    \u043E\u0447\u043A\u043E \u0437\u0430\u0449\u0438\u0442\u044B. \n\n\u041F\u043E\u0442\u0435\u0440\u044F\u0432
+    \u0432\u0441\u0435 \u043E\u0447\u043A\u0438, \u0412\u044B \u043F\u0440\u043E\u0438\u0433\u0440\u0430\u0435\u0442\u0435
+    \u0440\u0430\u0443\u043D\u0434."
 --- !u!1 &6814765187921229362
 GameObject:
   m_ObjectHideFlags: 0
@@ -2995,8 +3006,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -50.3, y: 35}
-  m_SizeDelta: {x: 248.27234, y: 111.215744}
+  m_AnchoredPosition: {x: -49, y: 40}
+  m_SizeDelta: {x: 293.6759, y: 143.00484}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8600567834323778945
 CanvasRenderer:
@@ -3038,9 +3049,15 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Hello, sir! \nYour task is defiat all enemies.\nTo do this, you should
-    buils enought defensers.\n\nSelect CACTUS from bottom left corner, and built
-    it in battlefield."
+  m_Text: "\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435,
+    \u0441\u0438\u0440! \n\n\u0412\u0430\u043C \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E
+    \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u044C \u0432\u0441\u0435\u0445 \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0445.\n\u0427\u0442\u043E\u0431\u044B
+    \u0434\u043E\u0441\u0442\u0438\u0433\u043D\u0443\u0442\u044C \u0446\u0435\u043B\u0438
+    \u043F\u043E\u0441\u0442\u0440\u043E\u0439\u0442\u0435 \u0434\u043E\u0441\u0442\u0430\u0442\u043E\u0447\u043D\u043E
+    \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u043E\u0432.\n\n\u041A\u043B\u0438\u043A\u043D\u0438\u0442\u0435
+    \u043F\u043E \u043A\u0430\u043A\u0442\u0443\u0441\u0443 \u0432 \u043D\u0438\u0436\u043D\u0435\u043C
+    \u043B\u0435\u0432\u043E\u043C \u0443\u0433\u043B\u0443, \u0438 \u043F\u043E\u0441\u0442\u0440\u043E\u0439\u0442\u0435
+    \u0435\u0433\u043E \u043D\u0430 \u043F\u043E\u043B\u0435."
 --- !u!1 &8600567834543091739
 GameObject:
   m_ObjectHideFlags: 0
@@ -3436,4 +3453,4 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: contunue
+  m_Text: "\u0434\u0430\u043B\u0435\u0435"

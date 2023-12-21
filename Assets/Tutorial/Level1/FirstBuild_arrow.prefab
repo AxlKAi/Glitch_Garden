@@ -25,16 +25,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1669196771570371182}
-  m_LocalRotation: {x: -0, y: -0, z: -0.9208899, w: 0.3898228}
+  m_LocalRotation: {x: 0, y: 0, z: -0.9580229, w: 0.2866918}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1.5289, y: 0.6889, z: 1}
   m_Children: []
   m_Father: {fileID: 2059506952955991744}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -134.113}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -146.68}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -531, y: -383}
+  m_AnchoredPosition: {x: -496, y: -407}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6420798705621638191
@@ -108,8 +108,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -420.6, y: -288.3}
-  m_SizeDelta: {x: 510.7995, y: 74.467545}
+  m_AnchoredPosition: {x: -51.2, y: -359}
+  m_SizeDelta: {x: 706.462, y: 74.467545}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2059506951279010565
 CanvasRenderer:
@@ -151,7 +151,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Select CACTUS
+  m_Text: "\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u041A\u0410\u041A\u0422\u0423\u0421"
 --- !u!1 &2059506952955991745
 GameObject:
   m_ObjectHideFlags: 0

@@ -16,4 +16,4 @@ MonoBehaviour:
     type: 3}
   _timer: 2
   _isModal: 0
-  _destroyDelay: 5
+  _destroyDelay: 3
