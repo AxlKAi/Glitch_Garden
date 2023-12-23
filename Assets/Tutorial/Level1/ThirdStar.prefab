@@ -77,7 +77,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Catch the STAR !
+  m_Text: "\u0411\u0435\u0440\u0438\u0442\u0435 \u0437\u0432\u0435\u0437\u0434\u0443
+    !"
 --- !u!1 &7799185921833266712
 GameObject:
   m_ObjectHideFlags: 0

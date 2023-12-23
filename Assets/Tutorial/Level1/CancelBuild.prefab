@@ -64,9 +64,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0414\u043B\u044F \u043E\u0442\u043C\u0435\u043D\u044B \u043D\u0430\u0436\u043C\u0438\u0442\u0435
-    \n\u041F\u041A\u041C - \u043F\u0440\u0430\u0432\u0443\u044E \n\u043A\u043D\u043E\u043F\u043A\u0443
-    \u043C\u044B\u0448\u043A\u0438"
+  m_text: "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u041F\u041A\u041C \n- \u043F\u0440\u0430\u0432\u0443\u044E
+    \u043A\u043D\u043E\u043F\u043A\u0443 \u043C\u044B\u0448\u043A\u0438 -\n\u0434\u043B\u044F
+    \u043E\u0442\u043C\u0435\u043D\u044B \u0437\u043D\u0430\u0447\u043A\u0430 \u043A\u0430\u043A\u0442\u0443\u0441\u0430 
+    \n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 6fe0b73bb7016e043ba5072595b9e393, type: 2}
   m_sharedMaterial: {fileID: -6733560312552693619, guid: 6fe0b73bb7016e043ba5072595b9e393,

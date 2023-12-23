@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ea2eb58441086ed46a6791c6ab0ada42, type: 3}
-  m_Name: FirstStar
+  m_Name: NormalSpeed2
   m_EditorClassIdentifier: 
-  _tutorialUIelement: {fileID: 139577968763449939, guid: 9d1b888600ed05a4ba8e9bf2bf56c005,
+  _tutorialUIelement: {fileID: 139577968763449939, guid: 5648d4fc4953b12438bef8a4fa50ce5f,
     type: 3}
-  _timer: 6
+  _timer: 10
   _isModal: 0
-  _destroyDelay: 3
+  _destroyDelay: 6

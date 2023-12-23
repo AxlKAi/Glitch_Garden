@@ -253,8 +253,12 @@ MonoBehaviour:
   _tutorialElements:
   - {fileID: 11400000, guid: a5472ae72c085a848be1b6c16faa28c4, type: 2}
   - {fileID: 11400000, guid: f8662ee3cba87e845b780d1be63e32f6, type: 2}
+  - {fileID: 11400000, guid: 374cc61034ab003409ab3ce890efcdbf, type: 2}
+  - {fileID: 11400000, guid: 1653149fef0224d47b88ff37028d2da0, type: 2}
   - {fileID: 11400000, guid: 37b70b3b0aa9754489f9a3ae6009ba89, type: 2}
   - {fileID: 11400000, guid: 2ebe9d87718c9454494905aa9bf24980, type: 2}
+  - {fileID: 11400000, guid: 0b433cc48b1b5ca4e90015b5b4dfa248, type: 2}
+  - {fileID: 11400000, guid: 0b71be3958297174f8cb39547d62e2c2, type: 2}
   - {fileID: 11400000, guid: 0c71aa347ba4ad64d8aba382fc1424b6, type: 2}
   - {fileID: 11400000, guid: e20b871bee507bf479159cc1ded4ae56, type: 2}
   - {fileID: 11400000, guid: a0d79000567f62a47b68afd43dd75b55, type: 2}

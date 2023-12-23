@@ -34,8 +34,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -420.6, y: -288.3}
-  m_SizeDelta: {x: 510.7995, y: 74.467545}
+  m_AnchoredPosition: {x: -465, y: -279}
+  m_SizeDelta: {x: 578.8558, y: 74.467545}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2860396407821876802
 CanvasRenderer:
@@ -77,7 +77,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Select CACTUS
+  m_Text: "\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u041A\u0410\u041A\u0422\u0423\u0421"
 --- !u!1 &2860396408291969926
 GameObject:
   m_ObjectHideFlags: 0
@@ -201,7 +201,7 @@ GameObject:
   - component: {fileID: 2786299073424863180}
   - component: {fileID: 1443068602054797668}
   m_Layer: 5
-  m_Name: FivesBuild_arrow
+  m_Name: SixBuild_arrow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

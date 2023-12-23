@@ -146,8 +146,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 85, y: 299}
-  m_SizeDelta: {x: 982.96326, y: 196.86594}
+  m_AnchoredPosition: {x: 16.3, y: 299}
+  m_SizeDelta: {x: 1120.4318, y: 196.86594}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &139577968134433298
 CanvasRenderer:
@@ -189,7 +189,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "3 cactus in row to \ndefeat all crocodiles..."
+  m_Text: "\u0414\u043B\u044F \u043F\u043E\u0431\u0435\u0434\u044B \u0432\u0441\u0435\u0445
+    \u0432\u0440\u0430\u0433\u043E\u0432 \n\u043F\u043E\u0441\u0442\u0440\u043E\u0439\u0442\u0435
+    3 \u043A\u0430\u043A\u0442\u0443\u0441\u0430 \u0432 \u0440\u044F\u0434"
 --- !u!1 &139577968609264905
 GameObject:
   m_ObjectHideFlags: 0

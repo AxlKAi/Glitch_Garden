@@ -276,8 +276,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 84, y: -93}
-  m_SizeDelta: {x: 731.421, y: 81.92051}
+  m_AnchoredPosition: {x: 235, y: -96}
+  m_SizeDelta: {x: 942.00903, y: 81.92051}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6504817201539163477
 CanvasRenderer:
@@ -319,4 +319,5 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Place CACTUS here...
+  m_Text: "\u0420\u0430\u0437\u043C\u0435\u0441\u0442\u0438\u0442\u0435 \u041A\u0410\u041A\u0422\u0423\u0421
+    \u0437\u0434\u0435\u0441\u044C..."
