@@ -6,6 +6,6 @@ public class NormalSpeedButtonUI : MonoBehaviour
 {
     public void SetNormalSpeed()
     {
-        GameState._instance.SetNormalGameSpeed();
+        GameState._instance.GameSpeed.SetNormalGameSpeed();
     }
 }

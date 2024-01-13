@@ -17,7 +17,7 @@ public class MainMenuButtonUI : MonoBehaviour
 
     public void LoadMainMenu()
     {
-        _gameState.SetNormalGameSpeed();
+        _gameState.GameSpeed.SetNormalGameSpeed();
         _levelManager.LoadMainMenu();
     }
 }

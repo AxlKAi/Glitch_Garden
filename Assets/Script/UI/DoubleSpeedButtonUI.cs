@@ -6,6 +6,6 @@ public class DoubleSpeedButtonUI : MonoBehaviour
 {
     public void SetDoubleSpeed()
     {
-        GameState._instance.SetDoubleGameSpeed();
+        GameState._instance.GameSpeed.SetDoubleGameSpeed();
     }
 }

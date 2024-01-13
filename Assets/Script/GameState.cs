@@ -75,7 +75,10 @@ public class GameState : MonoBehaviour
 
     private int modalWindowCount = 0; // if some modal window is open right now, than > 0
 
-    private int maxGameSpeed = 16;
+    [SerializeField]
+    private GameSpeed _gameSpeed;
+
+    public GameSpeed GameSpeed { get { return _gameSpeed; } }
 
     // Start is called before the first frame update
     void Start()
@@ -439,22 +442,5 @@ public class GameState : MonoBehaviour
     public void UnregisterModalWindow()
     {
         modalWindowCount--;
-    }
-
-    public void SetNormalGameSpeed()
-    {
-        Time.timeScale = 1;
-    }
-
-    public void SetDoubleGameSpeed()
-    {
-        if ((int)Time.timeScale < maxGameSpeed)
-            Time.timeScale = Time.timeScale * 2;
-    }
-
-    public void SetZeroGameSpeed()
-    {
-        Time.timeScale = 0;
-    }
-    
+    }    
 }

@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8068105006093341877}
   - component: {fileID: 1588933402}
   - component: {fileID: 1276117310747753354}
+  - component: {fileID: 4585476047989469022}
   m_Layer: 0
   m_Name: GameState
   m_TagString: Untagged
@@ -95,6 +96,7 @@ MonoBehaviour:
   starsItemPref: {fileID: 7110578940015974947, guid: b9c0e1251ef6699458702f356a039594,
     type: 3}
   pickableLayerNum: 12
+  _gameSpeed: {fileID: 4585476047989469022}
 --- !u!114 &1588933402
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -119,3 +121,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36336895b599c754ca8b4254b1c52ecd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &4585476047989469022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8068105006093341876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a05464441ae8ee4d99a6b3eb95ca3dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _normalSpeedButtonUI: {fileID: 0}
+  _doubleSpeedButtonUI: {fileID: 0}

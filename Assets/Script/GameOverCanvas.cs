@@ -31,12 +31,11 @@ public class GameOverCanvas : MonoBehaviour
         var dropMouseClick = transform.GetComponentInChildren<DropMouseClick>();
         dropMouseClick.TurnOffAllElements();
         gameState.RegisterModalWindow();
-        gameState.SetNormalGameSpeed();
+        gameState.GameSpeed.SetNormalGameSpeed();
 
         Sequence s = DOTween.Sequence();
         s.Append(_windowTransform.DOMove(_windowPosition, _windowAppearenceDelay));
         s.Join(_windowTransform.DOScale(_windowScale, _windowAppearenceDelay));
-
     }
 
     public void ShowWinScreen(int killedMobs, int totalStarsExtracted)

@@ -38,12 +38,12 @@ public class OptionsGameScreen : MonoBehaviour
 
     public void SetGameSpeedZero()
     {
-        gameState.SetZeroGameSpeed();
+        gameState.GameSpeed.SetZeroGameSpeed();
     }
 
     public void SetGameSpeedNormal()
     {
-        gameState.SetNormalGameSpeed();
+        gameState.GameSpeed.SetNormalGameSpeed();
     }
 
     public void ActivateOptionWindowInvoke()
