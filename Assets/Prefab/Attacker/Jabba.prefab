@@ -76,6 +76,7 @@ MonoBehaviour:
   damage: 60
   enemyProjectile: {fileID: 0}
   _hitColor: {r: 1, g: 0.3372549, b: 0.3372549, a: 1}
+  _freezeColor: {r: 0, g: 0, b: 1, a: 1}
 --- !u!50 &3544375062292930606
 Rigidbody2D:
   serializedVersion: 4
@@ -224,6 +225,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3544375062292930605}
     m_Modifications:
+    - target: {fileID: 282609541587883479, guid: 91324b010a928bf41a68d3aacfe4cac4,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.8392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 282609541587883479, guid: 91324b010a928bf41a68d3aacfe4cac4,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.67058825
+      objectReference: {fileID: 0}
+    - target: {fileID: 282609541587883479, guid: 91324b010a928bf41a68d3aacfe4cac4,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.3764706
+      objectReference: {fileID: 0}
+    - target: {fileID: 1059705607887481496, guid: 91324b010a928bf41a68d3aacfe4cac4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1861387705271624505, guid: 91324b010a928bf41a68d3aacfe4cac4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -294,10 +315,35 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.4
       objectReference: {fileID: 0}
+    - target: {fileID: 2434989108561420791, guid: 91324b010a928bf41a68d3aacfe4cac4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2655400674184232397, guid: 91324b010a928bf41a68d3aacfe4cac4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.482
+      objectReference: {fileID: 0}
+    - target: {fileID: 3001243561596912046, guid: 91324b010a928bf41a68d3aacfe4cac4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.48182982
+      objectReference: {fileID: 0}
     - target: {fileID: 5464044016350026164, guid: 91324b010a928bf41a68d3aacfe4cac4,
         type: 3}
       propertyPath: m_Name
       value: HealthBar
+      objectReference: {fileID: 0}
+    - target: {fileID: 7193394110657319112, guid: 91324b010a928bf41a68d3aacfe4cac4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8407147628711336923, guid: 91324b010a928bf41a68d3aacfe4cac4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.041999817
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 91324b010a928bf41a68d3aacfe4cac4, type: 3}

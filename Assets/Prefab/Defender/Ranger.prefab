@@ -320,6 +320,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3819702153218331234}
     m_Modifications:
+    - target: {fileID: 1059705607887481496, guid: 91324b010a928bf41a68d3aacfe4cac4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1861387705271624505, guid: 91324b010a928bf41a68d3aacfe4cac4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -380,10 +385,35 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.39999998
       objectReference: {fileID: 0}
+    - target: {fileID: 2434989108561420791, guid: 91324b010a928bf41a68d3aacfe4cac4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2655400674184232397, guid: 91324b010a928bf41a68d3aacfe4cac4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3001243561596912046, guid: 91324b010a928bf41a68d3aacfe4cac4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.35983002
+      objectReference: {fileID: 0}
     - target: {fileID: 5464044016350026164, guid: 91324b010a928bf41a68d3aacfe4cac4,
         type: 3}
       propertyPath: m_Name
       value: HealthBar
+      objectReference: {fileID: 0}
+    - target: {fileID: 7193394110657319112, guid: 91324b010a928bf41a68d3aacfe4cac4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8407147628711336923, guid: 91324b010a928bf41a68d3aacfe4cac4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.07999998
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 91324b010a928bf41a68d3aacfe4cac4, type: 3}

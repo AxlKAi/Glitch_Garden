@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 479334378474854035}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.43983, z: 0}
+  m_LocalPosition: {x: 0, y: 0.383, z: 0}
   m_LocalScale: {x: 0.53539944, y: 0.056543827, z: 1}
   m_Children: []
   m_Father: {fileID: 4550302106293362685}
@@ -233,7 +233,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6893407522718404001}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.44, z: 0}
+  m_LocalPosition: {x: 0, y: 0.383, z: 0}
   m_LocalScale: {x: 0.5199623, y: 0.041418314, z: 1}
   m_Children: []
   m_Father: {fileID: 4550302106293362685}
@@ -349,6 +349,7 @@ MonoBehaviour:
     type: 3}
   _hitColor: {r: 1, g: 0.33333334, b: 0.33333334, a: 1}
   _hitSprite: {fileID: 1265924136841308640}
+  _animatorSpawnDelay: 0.05
 --- !u!61 &2841385296295810726
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -520,7 +521,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9025072868560105985}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.26, y: 0, z: 0}
+  m_LocalPosition: {x: -0.26, y: -0.057, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2371963897520587567}
