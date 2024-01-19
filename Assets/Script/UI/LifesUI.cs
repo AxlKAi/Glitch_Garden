@@ -1,7 +1,7 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using DG.Tweening;
 
 public class LifesUI : MonoBehaviour
 {
@@ -13,7 +13,6 @@ public class LifesUI : MonoBehaviour
     void Start()
     {
         lifesUI_GUI = GetComponent<TextMeshProUGUI>();
-        StartCoroutine(SpawnRepeat());
     }
 
     public void DisplayLifes(int lifes)
@@ -21,11 +20,13 @@ public class LifesUI : MonoBehaviour
         lifesUI_GUI.text = lifes.ToString();
     }
 
-    private void SpawnDecreaseEffect()
+    public void SpawnDecreaseEffect()
     {
         LifesMinusEffect effect = Instantiate(_decreaseEffect, transform.position, Quaternion.identity) as LifesMinusEffect;
         effect.transform.parent = transform;
         StartCoroutine(DestroyEffect(effect));
+
+        ShowScaleupEffect();
     }
 
     private IEnumerator DestroyEffect(LifesMinusEffect effect)
@@ -34,13 +35,13 @@ public class LifesUI : MonoBehaviour
         Destroy(effect.gameObject);
     }
 
-    //TODO delet it
-    private IEnumerator SpawnRepeat()
+    private void ShowScaleupEffect()
     {
-        while (true)
-        {
-            yield return new WaitForSeconds(2f);
-            SpawnDecreaseEffect();
-        }
+        var sequence = DOTween.Sequence()
+            .Append(transform.DOScale(1.2f, .1f))
+            .Append(transform.DOScale(1.1f, .1f))
+            .Append(transform.DOScale(1.2f, .1f))
+            .Append(transform.DOScale(1.1f, .1f))
+            .Append(transform.DOScale(1f, .1f));
     }
 }

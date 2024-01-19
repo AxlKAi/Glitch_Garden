@@ -98,8 +98,6 @@ public class GameState : MonoBehaviour
 
         inventory = FindObjectOfType<Inventory>();
 
-        StartCoroutine(CreateSpellsAtStart());
-
         pickableLayerNum = LayerMask.GetMask("PickableItems");
 
         // TODO delete
@@ -113,21 +111,6 @@ public class GameState : MonoBehaviour
     private void LoadDifficultyLevel()
     {
         _difficulty_level = PlayerPrefsController.GetDifficulty();
-    }
-
-    // TODO delete this random spell instantiations
-    private IEnumerator CreateSpellsAtStart()
-    {
-        yield return new WaitForSeconds(1f);
-        // CreateSpellItem(1, new Vector3(3, 3, 0));
-        // CreateSpellItem(2, new Vector3(2, 2, 0));
-    }
-
-    // TODO delete this random spell instantiations
-    public void CreateSpellItem(int spell_id, Vector3 pos)
-    {
-        Spell_item item = Instantiate(spell_itemPref, pos, Quaternion.identity);
-        item.SetSpell_id(spell_id);
     }
 
     public Inventory GetInventory()
@@ -153,12 +136,6 @@ public class GameState : MonoBehaviour
             Debug.LogError("Please, add LifesUI obj to sceene");
         }
         lifesUI.DisplayLifes(lifesInLevel);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
     }
 
     private void FixedUpdate()
@@ -192,8 +169,11 @@ public class GameState : MonoBehaviour
     public void DecLife()
     {
         if (isGameOver) { return; }
+
         lifesInLevel -= 1;
         lifesUI.DisplayLifes(lifesInLevel);
+        lifesUI.SpawnDecreaseEffect();
+
         if (lifesInLevel <=0 )
         {
             GameOver();
@@ -240,7 +220,6 @@ public class GameState : MonoBehaviour
     {
         gameOverCanvas.ShowWinScreen(KilledMobSpawnCount, TotalStarsExtracted);
         PlayerPrefsController.SaveLevelCompletition(levelManager.CurrentLevelIndex(), (int)_difficulty_level + 1);
-        //StartCoroutine(LoadNextLevel());
     }
 
     public void TestWinMethod()
@@ -248,14 +227,6 @@ public class GameState : MonoBehaviour
         Time.timeScale = 1f;
         ShowWinScreen();
     }
-
-    /*
-    IEnumerator LoadNextLevel()
-    {
-        yield return new WaitForSeconds(3f);
-        levelManager.LoadNextScene();
-    }
-    */
 
     void InitializProjectilesRoot()
     {
