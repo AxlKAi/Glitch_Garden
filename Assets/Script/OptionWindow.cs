@@ -100,11 +100,13 @@ public class OptionWindow : MonoBehaviour
 
     public void RestartButtonClick()
     {
-           GameState.levelManager.RestartLevel();
+        AudioManager.Instance.PlaySFX("UI_Click");
+        GameState.levelManager.RestartLevel();
     }
 
     public void CloseButtonClick()
     {
+        AudioManager.Instance.PlaySFX("UI_Click");
         if (_difficultySwitch.CurrentMenuPosition != _initialyDifficulty)
             RestartButtonClick();
     }

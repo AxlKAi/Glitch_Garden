@@ -8,12 +8,15 @@ public class OptionSwithContent : MonoBehaviour
     [SerializeField] private int _startMenuPositionNumber = 0;
     [SerializeField] public UnityEngine.Events.UnityEvent onChange;
 
+    private AudioManager _audioManager;
     private int _currentMenuNumber=0;
     public int CurrentMenuPosition { get { return _currentMenuNumber; } set { } }
     private int _maxMenuNumber = 0; 
     // Start is called before the first frame update
     void Start()
     {
+        _audioManager = AudioManager.Instance;
+
         _maxMenuNumber = _optionSwitchContentUnit.Length - 1;
         if (_maxMenuNumber < 0)
             Debug.LogError("Add OptionSwitchContentUnit to Content");
@@ -63,6 +66,8 @@ public class OptionSwithContent : MonoBehaviour
 
     public void SwitchLeft()
     {
+        _audioManager.PlaySFX("UI_Click");
+
         if (_currentMenuNumber > 0)
         {
             _optionSwitchContentUnit[_currentMenuNumber].MoveFromCentorToLeft();
@@ -74,6 +79,8 @@ public class OptionSwithContent : MonoBehaviour
 
     public void SwitchRight()
     {
+        _audioManager.PlaySFX("UI_Click");
+
         if (_currentMenuNumber < _maxMenuNumber)
         {
             _optionSwitchContentUnit[_currentMenuNumber].MoveFromCentorToRight();

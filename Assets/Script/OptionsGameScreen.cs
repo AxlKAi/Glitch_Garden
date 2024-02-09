@@ -74,6 +74,8 @@ public class OptionsGameScreen : MonoBehaviour
             ActivateOptionWindow += dropMouseClick.TurnOffAllElements;
             DeactivateOptionWindow += gameState.UnregisterModalWindow;
             DeactivateOptionWindow += dropMouseClick.TurnOnAllElements;
+
+            AudioManager.Instance.PlaySFX("UI_Click");
         }
     }
 

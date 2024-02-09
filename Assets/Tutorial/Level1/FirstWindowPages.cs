@@ -18,7 +18,9 @@ public class FirstWindowPages : MonoBehaviour
 
     public void NextPage()
     {
-        if(_currentPage < _pagesCount)
+        AudioManager.Instance.PlaySFX("UI_Click");
+
+        if (_currentPage < _pagesCount)
         {
             _currentPage++;
         } 
@@ -26,6 +28,7 @@ public class FirstWindowPages : MonoBehaviour
         {
             _currentPage = 1;
         }
+
         DisableAllPages();
         ShowPage(_currentPage);
     }

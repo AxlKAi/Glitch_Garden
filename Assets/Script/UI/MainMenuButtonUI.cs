@@ -17,6 +17,7 @@ public class MainMenuButtonUI : MonoBehaviour
 
     public void LoadMainMenu()
     {
+        AudioManager.Instance.PlaySFX("UI_Click");
         _gameState.GameSpeed.SetNormalGameSpeed();
         _levelManager.LoadMainMenu();
     }

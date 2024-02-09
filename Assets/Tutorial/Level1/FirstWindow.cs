@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Events;
 
 [RequireComponent(typeof(DropMouseClick))]
@@ -45,6 +43,7 @@ public class FirstWindow : MonoBehaviour
 
     public void CloseAnimation()
     {
+        AudioManager.Instance.PlaySFX("UI_Click");
         _tutorialWindowAnimator.SetBool("CloseWindow", true);
     }
 
