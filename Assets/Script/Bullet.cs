@@ -9,11 +9,17 @@ public class Bullet : MonoBehaviour
     [SerializeField] float flySpeed = 2f;
     Transform bulletSpriteTransform;
     [SerializeField] int damage = 120;
+    [SerializeField] private string[] _hitSFX;
+    [SerializeField] private string[] _rangeAttackSFX;
+    private AudioManager _audioManager;
+
 
     // Start is called before the first frame update
     void Start()
     {
+        _audioManager = AudioManager.Instance;
         FindBulletSprite();
+        PlayRangeAttackSFX();
     }
 
     // Update is called once per frame
@@ -41,6 +47,7 @@ public class Bullet : MonoBehaviour
 
     public void DestroyBullet()
     {
+        PlayShootSFX();
 
         foreach (Transform child in this.transform)
         {
@@ -48,5 +55,39 @@ public class Bullet : MonoBehaviour
         }
 
         GameObject.Destroy(gameObject);
+    }
+
+    private void PlayShootSFX()
+    {
+        string nameSFX;
+
+        if (_hitSFX.Length > 0)
+        {
+            int index = Random.Range(0, _hitSFX.Length - 1);
+            nameSFX = _hitSFX[index];
+        }
+        else
+        {
+            nameSFX = _hitSFX[0];
+        }
+
+        _audioManager.PlaySFX(nameSFX);
+    }
+
+    private void PlayRangeAttackSFX()
+    {
+        string nameSFX;
+
+        if (_rangeAttackSFX.Length > 0)
+        {
+            int index = Random.Range(0, _rangeAttackSFX.Length);
+            nameSFX = _rangeAttackSFX[index];
+        }
+        else
+        {
+            nameSFX = _rangeAttackSFX[0];
+        }
+
+        _audioManager.PlaySFX(nameSFX);
     }
 }

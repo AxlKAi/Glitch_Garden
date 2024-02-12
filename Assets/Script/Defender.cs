@@ -32,7 +32,12 @@ public class Defender : MonoBehaviour
     [SerializeField] private SpriteRenderer _hitSprite;
     [SerializeField] private float _animatorSpawnDelay = .05f;
 
-  //   [SerializeField] private float animationSpeedRando!!!!!!
+    private AudioManager _audioManager;
+    [SerializeField] private string _buildSFX = "Cactus_build";
+    [SerializeField] private string[] _closeAttackSFX;
+
+
+    //   [SerializeField] private float animationSpeedRando!!!!!!
 
     // Start is called before the first frame update
     void Awake()
@@ -50,6 +55,8 @@ public class Defender : MonoBehaviour
 
         healthBar = GetComponentInChildren<HealthBar>();
         maxHealth = health;
+
+        _audioManager = AudioManager.Instance;
     }
 
     void Start()
@@ -57,6 +64,7 @@ public class Defender : MonoBehaviour
         defaultSpriteCollor = _hitSprite.color;
         float delay_tmp = Random.Range(-_animatorSpawnDelay, _animatorSpawnDelay);
         animator.SetFloat("runMultiplier", 1f + delay_tmp);
+        _audioManager.PlaySFX(_buildSFX);
     }
 
     // Update is called once per frame
@@ -105,7 +113,25 @@ public class Defender : MonoBehaviour
 
     public void DealDamage()
     {
-        closeCombatComponent.DealDamage();
+        PlayCloseCombatSFX();
+        closeCombatComponent.DealDamage();        
+    }
+
+    private void PlayCloseCombatSFX()
+    {
+        string nameSFX;        
+
+        if(_closeAttackSFX.Length > 0)
+        {
+            int index = Random.Range(0, _closeAttackSFX.Length - 1 );
+            nameSFX= _closeAttackSFX[index];
+        }
+        else
+        {
+            nameSFX = _closeAttackSFX[0];
+        }
+        
+        _audioManager.PlaySFX(nameSFX);
     }
 
     void ShowFightVFX()

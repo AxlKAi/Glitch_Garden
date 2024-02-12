@@ -131,10 +131,12 @@ public class GameState : MonoBehaviour
     private void EnableLifesUI()
     {
         lifesUI = FindObjectOfType<LifesUI>();
+
         if (!lifesUI)
         {
             Debug.LogError("Please, add LifesUI obj to sceene");
         }
+
         lifesUI.DisplayLifes(lifesInLevel);
     }
 
@@ -146,6 +148,7 @@ public class GameState : MonoBehaviour
     public void AddStars(int starsPoint)
     {
         if(isGameOver) { return; } 
+
         starsCurrentCount += starsPoint;
         TotalStarsExtracted += starsPoint;
         starsUI.DisplayStars(starsCurrentCount);

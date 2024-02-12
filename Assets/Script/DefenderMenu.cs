@@ -29,18 +29,15 @@ public class DefenderMenu : MonoBehaviour
     private void Start()
     {
         coreGameArea = FindObjectOfType<DefenderBuildZone>();
+
         if (defenderPref==null)
         {
             Debug.LogError("Please, add defender pref to button" + name);
         }
+
         buidlMouseCursor = transform.root.GetComponentInChildren<MouseCursor>();
         gameState = GameObject.FindObjectOfType<GameState>();
         gameState.BuildModeOffEvent += MakeAllButtonsDeSelected;
-    }
-
-    private void Update()
-    {
-
     }
 
     private void OnMouseDown()
@@ -51,6 +48,7 @@ public class DefenderMenu : MonoBehaviour
 
     public void DefenderButtonClicked()
     {
+        AudioManager.Instance.PlaySFX("Grab_defender");
         MakeAllButtonsDeSelected();
         GetComponent<SpriteRenderer>().color = selectedButtonCollor;
         coreGameArea.SetSpawnableDefender(defenderPref);

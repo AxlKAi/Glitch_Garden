@@ -451,6 +451,13 @@ MonoBehaviour:
   _hitColor: {r: 1, g: 0.33333334, b: 0.33333334, a: 1}
   _hitSprite: {fileID: 1176834784567070275}
   _animatorSpawnDelay: 0.05
+  _buildSFX: Cactus_build
+  _rangeAttackSFX:
+  - Cactus_shoot_1
+  - Cactus_shoot_2
+  - Cactus_shoot_3
+  _closeAttackSFX:
+  - Cactus_shoot_2
 --- !u!61 &7468129438387247195
 BoxCollider2D:
   m_ObjectHideFlags: 0

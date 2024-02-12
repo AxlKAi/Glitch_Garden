@@ -8,6 +8,8 @@ public class Shooter : MonoBehaviour
     Vector3 firePoint;
     GameObject projectilesRoot;
 
+    private AudioManager _audioManager;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +21,8 @@ public class Shooter : MonoBehaviour
         }
 
         InitializeProjectilesRootGameObj();
+
+        _audioManager = AudioManager.Instance;
     }
 
     // Update is called once per frame

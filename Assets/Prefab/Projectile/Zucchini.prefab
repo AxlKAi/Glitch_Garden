@@ -130,6 +130,14 @@ MonoBehaviour:
   rotateSpeed: 370
   flySpeed: 2
   damage: 15
+  _hitSFX:
+  - cactus_hit_1
+  - cactus_hit_2
+  - cactus_hit_3
+  _rangeAttackSFX:
+  - cactus_shoot_1
+  - cactus_shoot_2
+  - cactus_shoot_3
 --- !u!50 &6618472688832387941
 Rigidbody2D:
   serializedVersion: 4
