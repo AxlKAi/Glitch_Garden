@@ -37,6 +37,10 @@ public class Attacker : MonoBehaviour
     [SerializeField] private Color _hitColor = Color.red;
     [SerializeField] private Color _freezeColor = Color.blue;
 
+    [SerializeField] private string _attackSFX = "crocodile_attack";
+    [SerializeField] private string _idleSFX = "crocodile_idle";
+    [SerializeField] private string _deathSFX = "crocodile_death";
+    private AudioManager _audioManager;
 
     // Start is called before the first frame update
     void Start()
@@ -52,6 +56,7 @@ public class Attacker : MonoBehaviour
         SpriteRenderer spriteRenderer = gameObject.GetComponentInChildren<SpriteRenderer>();
         defaultSpriteCollor = spriteRenderer.color;
         currentSpriteCollor = defaultSpriteCollor;
+        _audioManager = AudioManager.Instance;
     }
 
     // Update is called once per frame
@@ -74,6 +79,22 @@ public class Attacker : MonoBehaviour
         {
             this.speed = speed;
         }        
+    }
+
+    public void PlayIdleSFX()
+    {
+        bool isAttack = false;
+
+        if (animator != null)
+            isAttack = animator.GetBool("isAttacking");
+
+        if (!isAttack && animator != null)
+            _audioManager.PlaySFX(_idleSFX);
+    }
+
+    private void PlayAttackSFX()
+    {
+        _audioManager.PlaySFX(_attackSFX);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -158,6 +179,7 @@ public class Attacker : MonoBehaviour
         else
         {
             attackingDefender.Hit(damage);
+            PlayAttackSFX();
         }        
     }
 

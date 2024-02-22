@@ -18,6 +18,9 @@ public class StarItem : MonoBehaviour
     private Vector3 _endPointPosition;
     private PickableVFX _pickableVFX;
 
+    [SerializeField]
+    private string _catchSFX = "catch_stars";
+
     // Start is called before the first frame update
     void Start()
     {
@@ -71,6 +74,7 @@ public class StarItem : MonoBehaviour
         StopAllCoroutines();
         gameState.AddStars(starsAmmount);
         isPicked = true;
+        AudioManager.Instance.PlaySFX(_catchSFX);
         _pickableVFX.ShowPickableVFX();
     }
 

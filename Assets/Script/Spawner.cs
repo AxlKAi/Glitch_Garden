@@ -12,6 +12,11 @@ public class Spawner : MonoBehaviour
 
     private float _difficultyCoefficient =1f;
 
+    private float _firstPlayIdleSFXDelay = 3f;
+
+    [SerializeField]
+    private float _playIdleSFXDelayPeriod = 5f;
+    private float _idleSFXDelayRandomCoefficient = 1f;
 
     // Start is called before the first frame update
     void Start()
@@ -50,6 +55,7 @@ public class Spawner : MonoBehaviour
     public void StartWave(int wave_num)
     {
         StartCoroutine(StartSpawner(wave_num));
+        StartCoroutine(PlayEnemyIdleSoundFirstTime());
     }
 
     IEnumerator StartSpawner(int wave_num)
@@ -59,6 +65,16 @@ public class Spawner : MonoBehaviour
         gameState.SetEndOfWave(true);
         gameState.IncEmptySpawner();
     }
+
+    // IEnumerator PlayEnemyIdleSound
+    // первый раз проигрывает звук 1-3 секунды после спавнв первого моба
+    // потом раз в 5-7 секунд проигрывает в зависимости от приоритета
+    // крокодил - 1 лиса - 2 и т.д.
+    // как расчитать приоритет ??
+    // Сделаем массив из типов врагов, и приоритета
+    // Приоритеты это int, они складываются, и затем рандомайзер выбирает число определяющее победителя
+    // Например, крокодил - 1, лиса - 3, краб 5. сумма всех чисел = 9
+    // Рандом от 1 до 9.  1 - крокодил. 2 - 4 лиса, 5-9 краб!
 
 
     IEnumerator SpawnOneWave(SpawnList att)
@@ -85,6 +101,7 @@ public class Spawner : MonoBehaviour
     {
         Attacker spawnableEnemy = Instantiate(attacker, transform.position, Quaternion.identity) as Attacker;
         spawnableEnemy.transform.parent = transform;
+        spawnableEnemy.PlayIdleSFX();
     }
 
     public int GetRemainMobSpawnCount()
@@ -92,4 +109,38 @@ public class Spawner : MonoBehaviour
         InitializeRemainMobSpawnCount();
         return remainMobSpawnCount;
     }
+
+    IEnumerator PlayEnemyIdleSoundFirstTime()
+    {
+        yield return new WaitForSeconds(_firstPlayIdleSFXDelay + startSpawnerDelay);
+
+        Attacker child;
+        transform.GetChild(0).TryGetComponent<Attacker>(out child);
+
+        if (child != null)
+            child.PlayIdleSFX();
+
+        StartCoroutine(PlayEnemyIdleSoundContiniusly());
+    }
+
+    IEnumerator PlayEnemyIdleSoundContiniusly()
+    {
+        while (true)
+        {
+            float deltaTime = Random.Range(0, _idleSFXDelayRandomCoefficient);
+                
+            yield return new WaitForSeconds(_playIdleSFXDelayPeriod + deltaTime);
+
+            int childCount = transform.childCount;
+
+            if(childCount > 0)
+            {
+                Attacker child;
+                int randomChild = Random.Range(0, childCount);
+                transform.GetChild(randomChild).TryGetComponent<Attacker>(out child);
+                child.PlayIdleSFX();
+            }
+        }
+    }
+
 }
