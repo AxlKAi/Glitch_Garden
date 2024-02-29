@@ -14,7 +14,7 @@ public class GameSpeed : MonoBehaviour
     private Color _activeButton = new Color(.6f, .6f, .6f);
     private Color _regularButton = new Color(.2f,.2f,.2f);
     private Color _activeSpeedIndicator = new Color(.75f, .59f, .27f);
-    private float _regularSpeedIndicatorColorMultiplicator = 2.3f;
+    private float _regularSpeedIndicatorColorMultiplicator = 1.3f;
 
     private TextMeshProUGUI _speedIndicator;
     private string _speedSuffix = "x";
@@ -23,13 +23,12 @@ public class GameSpeed : MonoBehaviour
     {
         Time.timeScale = 1;
         SetButtonsStateToDefault();
-        _normalSpeedButtonUI.gameObject.GetComponent<Image>().color = _activeButton;
     }
 
     public void SetDoubleGameSpeed()
     {
         SetButtonsStateToDefault();
-        _doubleSpeedButtonUI.gameObject.GetComponent<Image>().color = _activeButton;
+        _normalSpeedButtonUI.gameObject.GetComponent<Image>().color = _activeButton;
 
         if ((int)Time.timeScale < MaxGameSpeed)
             Time.timeScale = Time.timeScale * 2;
@@ -55,7 +54,7 @@ public class GameSpeed : MonoBehaviour
     private void SetButtonsStateToDefault()
     {
         _normalSpeedButtonUI.gameObject.GetComponent<Image>().color = _regularButton;
-        _doubleSpeedButtonUI.gameObject.GetComponent<Image>().color = _regularButton;
+        _doubleSpeedButtonUI.gameObject.GetComponent<Image>().color = _activeButton;
         _speedIndicator.color = _activeSpeedIndicator/_regularSpeedIndicatorColorMultiplicator;
         _speedIndicator.text = "1" + _speedSuffix;
     }
