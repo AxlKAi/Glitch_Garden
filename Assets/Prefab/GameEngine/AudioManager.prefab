@@ -204,6 +204,12 @@ MonoBehaviour:
     Clip: {fileID: 8300000, guid: f12f81f0dc571cf4d9f5fc1f4f523268, type: 3}
   - Name: crocodile_death
     Clip: {fileID: 8300000, guid: f12f81f0dc571cf4d9f5fc1f4f523268, type: 3}
+  - Name: catch_stars
+    Clip: {fileID: 8300000, guid: c39ad1cf4f902984fb2e1e3992c3c039, type: 3}
+  - Name: crab_idle
+    Clip: {fileID: 8300000, guid: 8dc1cf7307cb23b43aedd6f0396ae6e5, type: 3}
+  - Name: crab_attack
+    Clip: {fileID: 8300000, guid: 0f3f89446f4f14543ae193bac4b54833, type: 3}
   _musicSource: {fileID: 7826432355814893708}
   _sfxSource: {fileID: 7826432354025155379}
 --- !u!1 &7826432355814893709
