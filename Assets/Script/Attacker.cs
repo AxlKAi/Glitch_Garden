@@ -40,6 +40,7 @@ public class Attacker : MonoBehaviour
     [SerializeField] private string _attackSFX = "crocodile_attack";
     [SerializeField] private string _idleSFX = "crocodile_idle";
     [SerializeField] private string _deathSFX = "crocodile_death";
+    [SerializeField] private string _slowSFX = "slow_magic_apply";
     private AudioManager _audioManager;
 
     // Start is called before the first frame update
@@ -217,6 +218,7 @@ public class Attacker : MonoBehaviour
             SpriteRenderer spriteRenderer = gameObject.GetComponentInChildren<SpriteRenderer>();
             spriteRenderer.color = Color.green;
             RemoveSlowPeriodCorout = StartCoroutine(RemoveSlowEffect(period));
+            _audioManager.PlaySFX(_slowSFX);
         }
     }
 

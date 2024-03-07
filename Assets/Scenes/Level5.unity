@@ -1364,7 +1364,7 @@ PrefabInstance:
     - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
         type: 3}
       propertyPath: _sfxSounds.Array.size
-      value: 21
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
         type: 3}
@@ -1375,7 +1375,7 @@ PrefabInstance:
         type: 3}
       propertyPath: _sfxSounds.Array.data[18].Clip
       value: 
-      objectReference: {fileID: 8300000, guid: dfe3d3503e25c35478c7ea28bd9642e5, type: 3}
+      objectReference: {fileID: 8300000, guid: f6d6e739747c4394d86cc88ad7631808, type: 3}
     - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
         type: 3}
       propertyPath: _sfxSounds.Array.data[19].Name
@@ -1395,7 +1395,37 @@ PrefabInstance:
         type: 3}
       propertyPath: _sfxSounds.Array.data[20].Clip
       value: 
-      objectReference: {fileID: 8300000, guid: f6d6e739747c4394d86cc88ad7631808, type: 3}
+      objectReference: {fileID: 8300000, guid: dfe3d3503e25c35478c7ea28bd9642e5, type: 3}
+    - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
+        type: 3}
+      propertyPath: _sfxSounds.Array.data[21].Name
+      value: magic_generate
+      objectReference: {fileID: 0}
+    - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
+        type: 3}
+      propertyPath: _sfxSounds.Array.data[21].Clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e32d5041975d90e42b9e45b918ed7a4e, type: 3}
+    - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
+        type: 3}
+      propertyPath: _sfxSounds.Array.data[22].Name
+      value: slow_magic_cast
+      objectReference: {fileID: 0}
+    - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
+        type: 3}
+      propertyPath: _sfxSounds.Array.data[22].Clip
+      value: 
+      objectReference: {fileID: 8300000, guid: 63b056154ed18fa40a34f3be4f25b9b2, type: 3}
+    - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
+        type: 3}
+      propertyPath: _sfxSounds.Array.data[23].Name
+      value: slow_magic_apply
+      objectReference: {fileID: 0}
+    - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
+        type: 3}
+      propertyPath: _sfxSounds.Array.data[23].Clip
+      value: 
+      objectReference: {fileID: 8300000, guid: 6b3d5a7ea4e37a64cb541d145d80097f, type: 3}
     - target: {fileID: 7826432354322168346, guid: 9474bd867a042b74da04c5e772271a2d,
         type: 3}
       propertyPath: m_Name
@@ -1854,6 +1884,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1588933402, guid: 26114dafb33f3f44db3f576b3c969a74, type: 3}
+      propertyPath: _healthSFX
+      value: heal
+      objectReference: {fileID: 0}
     - target: {fileID: 7918713300188391935, guid: 26114dafb33f3f44db3f576b3c969a74,
         type: 3}
       propertyPath: m_Offset.y

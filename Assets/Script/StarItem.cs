@@ -20,6 +20,8 @@ public class StarItem : MonoBehaviour
 
     [SerializeField]
     private string _catchSFX = "catch_stars";
+    [SerializeField]
+    private string _generateSFX = "star_generate";
 
     // Start is called before the first frame update
     void Start()
@@ -34,6 +36,8 @@ public class StarItem : MonoBehaviour
         }
 
         _pickableVFX = GetComponent<PickableVFX>();
+
+        AudioManager.Instance.PlaySFX(_generateSFX);
     }
 
     // Update is called once per frame

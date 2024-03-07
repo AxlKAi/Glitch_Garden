@@ -6,12 +6,19 @@ public class SpellAction : MonoBehaviour
 {
     GameState gameState;
     Spell castingSpell;
+    private AudioManager _audioManager;
+
+    [SerializeField]
+    private string _healthSFX = "heal";
+    [SerializeField]
+    private string _slowSFX = "slow_magic_cast";
+    
 
     // Start is called before the first frame update
     void Start()
     {
         gameState = GameObject.FindObjectOfType<GameState>();
-
+        _audioManager = AudioManager.Instance;
     }
 
     // Update is called once per frame
@@ -35,6 +42,7 @@ public class SpellAction : MonoBehaviour
                     defender.Healing(castingSpell.spellPower);
                     ShowParticle(currentPosition);
                     isCastUsed = true;
+                    _audioManager.PlaySFX(_healthSFX);
                 }
                     break;
 
@@ -53,6 +61,7 @@ public class SpellAction : MonoBehaviour
 
             //Slow
             case 3:
+                _audioManager.PlaySFX(_slowSFX);
                 ShowParticle(currentPosition);
                 isCastUsed = true;
                 break;

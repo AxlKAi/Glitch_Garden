@@ -13,6 +13,10 @@ public class Spell_item : MonoBehaviour
     private Vector3 _endPointPosition;
     private PickableVFX _pickableVFX;
 
+    [SerializeField]
+    private string _grabSFX = "grab_magic";
+    [SerializeField]
+    private string _generateSFX = "magic_generate";
 
     [SerializeField] float selfDestroyTime = 10f;
 
@@ -25,6 +29,7 @@ public class Spell_item : MonoBehaviour
         GetComponent<SpriteRenderer>().sprite = spell.icon;
         StartCoroutine(DestroySpellItem());
         _pickableVFX = GetComponent<PickableVFX>();
+        AudioManager.Instance.PlaySFX(_generateSFX);
     }
 
     // Update is called once per frame
@@ -44,6 +49,7 @@ public class Spell_item : MonoBehaviour
             _endPointPosition = inventory.GetFreeSlotPosition();
             _pickableVFX.ShowPickableVFX();
             inventory.AddItem(spell_id);
+            AudioManager.Instance.PlaySFX(_grabSFX);
             return true;
         } 
         else
