@@ -210,6 +210,18 @@ MonoBehaviour:
     Clip: {fileID: 8300000, guid: 8dc1cf7307cb23b43aedd6f0396ae6e5, type: 3}
   - Name: crab_attack
     Clip: {fileID: 8300000, guid: 0f3f89446f4f14543ae193bac4b54833, type: 3}
+  - Name: heal
+    Clip: {fileID: 8300000, guid: f6d6e739747c4394d86cc88ad7631808, type: 3}
+  - Name: grab_magic
+    Clip: {fileID: 8300000, guid: 79bd67fedc8fe0f4ea5ce225b9bd2613, type: 3}
+  - Name: star_generate
+    Clip: {fileID: 8300000, guid: dfe3d3503e25c35478c7ea28bd9642e5, type: 3}
+  - Name: magic_generate
+    Clip: {fileID: 8300000, guid: e32d5041975d90e42b9e45b918ed7a4e, type: 3}
+  - Name: slow_magic_cast
+    Clip: {fileID: 8300000, guid: 63b056154ed18fa40a34f3be4f25b9b2, type: 3}
+  - Name: slow_magic_apply
+    Clip: {fileID: 8300000, guid: 6b3d5a7ea4e37a64cb541d145d80097f, type: 3}
   _musicSource: {fileID: 7826432355814893708}
   _sfxSource: {fileID: 7826432354025155379}
 --- !u!1 &7826432355814893709
