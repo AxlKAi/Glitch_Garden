@@ -35,7 +35,7 @@ public class Defender : MonoBehaviour
     private AudioManager _audioManager;
     [SerializeField] private string _buildSFX = "Cactus_build";
     [SerializeField] private string[] _closeAttackSFX;
-
+    [SerializeField] private string _deathSFX = "cactus_death";
 
     //   [SerializeField] private float animationSpeedRando!!!!!!
 
@@ -236,10 +236,13 @@ public class Defender : MonoBehaviour
     {
         health -= damage;
         HitParticle();
+
         if (health<=0)
         {
+            _audioManager.PlaySFX(_deathSFX);
             Die();
         }
+
         float healthBarParam = (float)health / (float)maxHealth;
         healthBar.SetSize(healthBarParam);
     }
@@ -250,6 +253,7 @@ public class Defender : MonoBehaviour
         {
             ParticleSystem pHit = Instantiate(hitParticlePref, transform.position, Quaternion.identity);
         }
+
         StartCoroutine(AppendHitColor());    
     }
 

@@ -137,6 +137,7 @@ public class Attacker : MonoBehaviour
 
     void Die()
     {
+        _audioManager.PlaySFX(_deathSFX);
         StopAllCoroutines();
         gameState.AddKilledEnemy();
         if (deathVFX)
@@ -169,6 +170,7 @@ public class Attacker : MonoBehaviour
         //bullet.transform.parent = gameObject.transform;
 
         bullet.transform.parent = projectilesRoot.transform;
+        _audioManager.PlaySFX(_attackSFX);
     }
 
     public void DealDamage()

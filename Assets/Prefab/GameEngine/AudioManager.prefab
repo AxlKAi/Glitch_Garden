@@ -193,17 +193,17 @@ MonoBehaviour:
   - Name: cactus_hit_3
     Clip: {fileID: 8300000, guid: dd7de58aa7455a744abc1387bb829525, type: 3}
   - Name: crocodile_attack
-    Clip: {fileID: 8300000, guid: 7fc3d40bb661ac84fb2736976f8906ea, type: 3}
+    Clip: {fileID: 8300000, guid: 58105e6d18d64a84eac524ac843ec920, type: 3}
   - Name: crocodile_idle
     Clip: {fileID: 8300000, guid: 9a39fd201b3bc6b4aa27e89a7bbd4f13, type: 3}
   - Name: fox_idle
     Clip: {fileID: 8300000, guid: f05ffdc766e76a743a819e754e076ddb, type: 3}
   - Name: fox_attack
-    Clip: {fileID: 8300000, guid: 1ea18f612a95b11468134314838862f3, type: 3}
+    Clip: {fileID: 8300000, guid: dd9691b9363e46c43a9bb686ade8176e, type: 3}
   - Name: fox_death
     Clip: {fileID: 8300000, guid: f12f81f0dc571cf4d9f5fc1f4f523268, type: 3}
   - Name: crocodile_death
-    Clip: {fileID: 8300000, guid: f12f81f0dc571cf4d9f5fc1f4f523268, type: 3}
+    Clip: {fileID: 8300000, guid: 4041b7edcefe0b7429372103e8faae24, type: 3}
   - Name: catch_stars
     Clip: {fileID: 8300000, guid: c39ad1cf4f902984fb2e1e3992c3c039, type: 3}
   - Name: crab_idle
@@ -222,6 +222,16 @@ MonoBehaviour:
     Clip: {fileID: 8300000, guid: 63b056154ed18fa40a34f3be4f25b9b2, type: 3}
   - Name: slow_magic_apply
     Clip: {fileID: 8300000, guid: 6b3d5a7ea4e37a64cb541d145d80097f, type: 3}
+  - Name: altar_build
+    Clip: {fileID: 8300000, guid: 91d5aa2649081be4e86c870ea594a8b8, type: 3}
+  - Name: stone_build
+    Clip: {fileID: 8300000, guid: d266a1e705bd7234c8376ed1aba8c1b3, type: 3}
+  - Name: lose_point
+    Clip: {fileID: 8300000, guid: 0d4daafad2f42d5489813fd0cff5840d, type: 3}
+  - Name: crab_dark_magic
+    Clip: {fileID: 8300000, guid: 15d7f0f509ab1e24798e989d00fb4a2a, type: 3}
+  - Name: fire_blast
+    Clip: {fileID: 8300000, guid: b3196fa4d5fd8d242894961753ff2cc2, type: 3}
   _musicSource: {fileID: 7826432355814893708}
   _sfxSource: {fileID: 7826432354025155379}
 --- !u!1 &7826432355814893709

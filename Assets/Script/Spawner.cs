@@ -15,7 +15,7 @@ public class Spawner : MonoBehaviour
     private float _firstPlayIdleSFXDelay = 3f;
 
     [SerializeField]
-    private float _playIdleSFXDelayPeriod = 5f;
+    private float _playIdleSFXDelayPeriod = 12f;
     private float _idleSFXDelayRandomCoefficient = 1f;
 
     // Start is called before the first frame update

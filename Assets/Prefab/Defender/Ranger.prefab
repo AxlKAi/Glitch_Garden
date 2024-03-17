@@ -184,6 +184,9 @@ MonoBehaviour:
   _hitColor: {r: 1, g: 0.33333334, b: 0.33333334, a: 1}
   _hitSprite: {fileID: 7918589121650893378}
   _animatorSpawnDelay: 0.05
+  _buildSFX: ranger_build
+  _closeAttackSFX:
+  - ranger_attack
 --- !u!50 &8959606228367527037
 Rigidbody2D:
   serializedVersion: 4

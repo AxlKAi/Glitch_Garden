@@ -350,6 +350,8 @@ MonoBehaviour:
   _hitColor: {r: 1, g: 0.33333334, b: 0.33333334, a: 1}
   _hitSprite: {fileID: 1265924136841308640}
   _animatorSpawnDelay: 0.05
+  _buildSFX: stone_build
+  _closeAttackSFX: []
 --- !u!61 &2841385296295810726
 BoxCollider2D:
   m_ObjectHideFlags: 0

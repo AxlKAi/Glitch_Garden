@@ -8,6 +8,9 @@ public class LifesUI : MonoBehaviour
     [SerializeField]
     private LifesMinusEffect _decreaseEffect;
 
+    [SerializeField]
+    private string _decreasePointSFX = "lose_point";
+
     TextMeshProUGUI lifesUI_GUI;
 
     void Start()
@@ -27,6 +30,7 @@ public class LifesUI : MonoBehaviour
         StartCoroutine(DestroyEffect(effect));
 
         ShowScaleupEffect();
+        AudioManager.Instance.PlaySFX(_decreasePointSFX);
     }
 
     private IEnumerator DestroyEffect(LifesMinusEffect effect)

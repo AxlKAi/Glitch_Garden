@@ -158,6 +158,8 @@ MonoBehaviour:
   _freezeColor: {r: 0, g: 0, b: 1, a: 1}
   _attackSFX: crocodile_attack
   _idleSFX: crocodile_idle
+  _deathSFX: crocodile_death
+  _slowSFX: slow_magic_apply
 --- !u!114 &1842428076
 MonoBehaviour:
   m_ObjectHideFlags: 0

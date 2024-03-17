@@ -13,6 +13,7 @@ public class EnemyProjectile : MonoBehaviour
     [SerializeField] private ParticleSystem _hitVFX;
     [SerializeField] private float _hitVFX_delay = 2f;
     [SerializeField] private GameObject _pickableVFXRootGO;
+    [SerializeField] private string _mainSFX = "crab_dark_magic";
 
     // Start is called before the first frame update
     void Start()
@@ -26,6 +27,7 @@ public class EnemyProjectile : MonoBehaviour
             _pickableVFXRootGO = go;
         }
 
+        AudioManager.Instance.PlaySFX(_mainSFX);
     }
 
     // Update is called once per frame

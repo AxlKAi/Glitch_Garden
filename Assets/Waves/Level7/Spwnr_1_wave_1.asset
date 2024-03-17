@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Spwnr_1_wave_1
   m_EditorClassIdentifier: 
   spawnList:
-  - {fileID: 11400000, guid: ea4cadf7fee3cc842a109128a102bbbd, type: 2}
+  - {fileID: 11400000, guid: d6bce2e702f500642a59eada0ec0b96c, type: 2}
   - {fileID: 11400000, guid: ea4cadf7fee3cc842a109128a102bbbd, type: 2}
   - {fileID: 11400000, guid: 42a6e4a8fcd52a74a80bb89028c9e003, type: 2}

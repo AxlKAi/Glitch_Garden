@@ -648,6 +648,8 @@ MonoBehaviour:
   _hitColor: {r: 1, g: 0.33333334, b: 0.33333334, a: 1}
   _hitSprite: {fileID: 8131556205190832839}
   _animatorSpawnDelay: 0.05
+  _buildSFX: altar_build
+  _closeAttackSFX: []
 --- !u!61 &8780252028815408148
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -12,7 +12,8 @@ public class SpellAction : MonoBehaviour
     private string _healthSFX = "heal";
     [SerializeField]
     private string _slowSFX = "slow_magic_cast";
-    
+    [SerializeField]
+    private string _fireBlastSFX = "fire_blast";
 
     // Start is called before the first frame update
     void Start()
@@ -56,6 +57,7 @@ public class SpellAction : MonoBehaviour
                     }
                     ShowParticle(currentPosition);
                     isCastUsed = true;
+                    _audioManager.PlaySFX(_fireBlastSFX);
                 }
                 break;
 
