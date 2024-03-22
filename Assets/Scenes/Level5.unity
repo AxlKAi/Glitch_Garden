@@ -1361,6 +1361,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
+        type: 3}
+      propertyPath: _sfxSounds.Array.data[30].Name
+      value: stone_death
+      objectReference: {fileID: 0}
+    - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
+        type: 3}
+      propertyPath: _sfxSounds.Array.data[30].Clip
+      value: 
+      objectReference: {fileID: 8300000, guid: c8d5f17aaa3c179499c9fa4f09d9ccee, type: 3}
+    - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
+        type: 3}
+      propertyPath: _sfxSounds.Array.data[29].Clip
+      value: 
+      objectReference: {fileID: 8300000, guid: bf59707bb5b4954498b4b35b088c9bec, type: 3}
     - target: {fileID: 7826432354322168346, guid: 9474bd867a042b74da04c5e772271a2d,
         type: 3}
       propertyPath: m_Name

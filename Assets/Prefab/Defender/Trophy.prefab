@@ -650,6 +650,7 @@ MonoBehaviour:
   _animatorSpawnDelay: 0.05
   _buildSFX: altar_build
   _closeAttackSFX: []
+  _deathSFX: altar_death
 --- !u!61 &8780252028815408148
 BoxCollider2D:
   m_ObjectHideFlags: 0

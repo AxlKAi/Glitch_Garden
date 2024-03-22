@@ -626,6 +626,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
+        type: 3}
+      propertyPath: _sfxSounds.Array.size
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
+        type: 3}
+      propertyPath: _sfxSounds.Array.data[33].Name
+      value: ranger_attack
+      objectReference: {fileID: 0}
+    - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
+        type: 3}
+      propertyPath: _sfxSounds.Array.data[33].Clip
+      value: 
+      objectReference: {fileID: 8300000, guid: ae276677dc0022b45ba7106f18ff0259, type: 3}
+    - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
+        type: 3}
+      propertyPath: _sfxSounds.Array.data[34].Name
+      value: ranger_build
+      objectReference: {fileID: 0}
+    - target: {fileID: 7826432354322168325, guid: 9474bd867a042b74da04c5e772271a2d,
+        type: 3}
+      propertyPath: _sfxSounds.Array.data[34].Clip
+      value: 
+      objectReference: {fileID: 8300000, guid: b3ec234e4b390c7469ce21137464e353, type: 3}
     - target: {fileID: 7826432354322168346, guid: 9474bd867a042b74da04c5e772271a2d,
         type: 3}
       propertyPath: m_Name

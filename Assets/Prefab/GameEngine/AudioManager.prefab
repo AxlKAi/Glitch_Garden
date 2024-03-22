@@ -232,6 +232,14 @@ MonoBehaviour:
     Clip: {fileID: 8300000, guid: 15d7f0f509ab1e24798e989d00fb4a2a, type: 3}
   - Name: fire_blast
     Clip: {fileID: 8300000, guid: b3196fa4d5fd8d242894961753ff2cc2, type: 3}
+  - Name: cactus_death
+    Clip: {fileID: 8300000, guid: 2e631ff657726484e97f57d23387b968, type: 3}
+  - Name: stone_build
+    Clip: {fileID: 8300000, guid: d266a1e705bd7234c8376ed1aba8c1b3, type: 3}
+  - Name: altar_death
+    Clip: {fileID: 8300000, guid: 3460761db0a688749883ea41b7243287, type: 3}
+  - Name: ranger_death
+    Clip: {fileID: 8300000, guid: 7dc62e2e6e024db4ebee618952cfaf48, type: 3}
   _musicSource: {fileID: 7826432355814893708}
   _sfxSource: {fileID: 7826432354025155379}
 --- !u!1 &7826432355814893709

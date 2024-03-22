@@ -352,6 +352,7 @@ MonoBehaviour:
   _animatorSpawnDelay: 0.05
   _buildSFX: stone_build
   _closeAttackSFX: []
+  _deathSFX: stone_death
 --- !u!61 &2841385296295810726
 BoxCollider2D:
   m_ObjectHideFlags: 0

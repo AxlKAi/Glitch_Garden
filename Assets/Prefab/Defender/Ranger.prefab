@@ -187,6 +187,7 @@ MonoBehaviour:
   _buildSFX: ranger_build
   _closeAttackSFX:
   - ranger_attack
+  _deathSFX: ranger_death
 --- !u!50 &8959606228367527037
 Rigidbody2D:
   serializedVersion: 4
