@@ -250,6 +250,10 @@ MonoBehaviour:
   enemyProjectile: {fileID: 0}
   _hitColor: {r: 1, g: 0.3372549, b: 0.3372549, a: 1}
   _freezeColor: {r: 0, g: 0, b: 1, a: 1}
+  _attackSFX: flyPiggy_attack
+  _idleSFX: flyPiggy_idle
+  _deathSFX: flyPiggy_death
+  _slowSFX: slow_magic_apply
 --- !u!114 &5529323660555028689
 MonoBehaviour:
   m_ObjectHideFlags: 0

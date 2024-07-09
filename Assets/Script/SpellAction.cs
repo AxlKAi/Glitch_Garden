@@ -14,6 +14,8 @@ public class SpellAction : MonoBehaviour
     private string _slowSFX = "slow_magic_cast";
     [SerializeField]
     private string _fireBlastSFX = "fire_blast";
+    [SerializeField]
+    private string _freezeMagicSFX = "freeze_magic";
 
     // Start is called before the first frame update
     void Start()
@@ -72,10 +74,13 @@ public class SpellAction : MonoBehaviour
             case 4:
                 if (attackers != null && attackers.Length > 0)
                 {
+                    _audioManager.PlaySFX(_freezeMagicSFX);
+
                     foreach (Attacker attacker in attackers)
                     {
                         attacker.SetFreezeEffect();
                     }
+
                     ShowParticle(currentPosition);
                     isCastUsed = true;
                 }

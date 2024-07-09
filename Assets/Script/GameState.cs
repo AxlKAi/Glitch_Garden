@@ -365,7 +365,7 @@ public class GameState : MonoBehaviour
                 }
                 else
                 {
-                    ShowWinScreen();
+                    if(!isGameOver) ShowWinScreen();
                 }
             }
         }

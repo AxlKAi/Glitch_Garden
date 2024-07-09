@@ -77,6 +77,7 @@ MonoBehaviour:
   _hitVFX: {fileID: 0}
   _hitVFX_delay: 2
   _pickableVFXRootGO: {fileID: 0}
+  _mainSFX: 
 --- !u!1 &7803810327587331080
 GameObject:
   m_ObjectHideFlags: 0

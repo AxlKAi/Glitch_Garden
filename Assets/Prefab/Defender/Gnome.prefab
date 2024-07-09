@@ -416,6 +416,10 @@ MonoBehaviour:
   _hitColor: {r: 1, g: 0.33333334, b: 0.33333334, a: 1}
   _hitSprite: {fileID: 5366568216500617134}
   _animatorSpawnDelay: 0.05
+  _buildSFX: gnome_build
+  _closeAttackSFX:
+  - gnome_attack
+  _deathSFX: gnome_death
 --- !u!61 &7468129438387247195
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -240,6 +240,30 @@ MonoBehaviour:
     Clip: {fileID: 8300000, guid: 3460761db0a688749883ea41b7243287, type: 3}
   - Name: ranger_death
     Clip: {fileID: 8300000, guid: 7dc62e2e6e024db4ebee618952cfaf48, type: 3}
+  - Name: ranger_attack
+    Clip: {fileID: 8300000, guid: ae276677dc0022b45ba7106f18ff0259, type: 3}
+  - Name: ranger_build
+    Clip: {fileID: 8300000, guid: b3ec234e4b390c7469ce21137464e353, type: 3}
+  - Name: freeze_magic
+    Clip: {fileID: 8300000, guid: aedf395c3316e234bace58dc36cc72ce, type: 3}
+  - Name: gnome_attack
+    Clip: {fileID: 8300000, guid: 1b28a5269339dda49a0b843cf284d572, type: 3}
+  - Name: gnome_build
+    Clip: {fileID: 8300000, guid: b3b97f900740934498ec2512e7142d5c, type: 3}
+  - Name: gnome_death
+    Clip: {fileID: 8300000, guid: 75bd8344a70f87f4cb108e477f42e019, type: 3}
+  - Name: flyPiggy_attack
+    Clip: {fileID: 8300000, guid: 75ecd938fa106fa4bb644ecdcddcbd17, type: 3}
+  - Name: flyPiggy_death
+    Clip: {fileID: 8300000, guid: 9850c7d76d529394bbd0bba895c43581, type: 3}
+  - Name: flyPiggy_idle
+    Clip: {fileID: 8300000, guid: d7e14da917d508d4491fea1da6778dcc, type: 3}
+  - Name: jabra_idle
+    Clip: {fileID: 8300000, guid: 4bc23a89a4635f748b1fc6df109669db, type: 3}
+  - Name: jabra_attack
+    Clip: {fileID: 8300000, guid: a4ea5dbb1fc573b49a9f290e90e5390a, type: 3}
+  - Name: jabra_death
+    Clip: {fileID: 8300000, guid: db945f7d5d922ba44a291233c8600bf0, type: 3}
   _musicSource: {fileID: 7826432355814893708}
   _sfxSource: {fileID: 7826432354025155379}
 --- !u!1 &7826432355814893709

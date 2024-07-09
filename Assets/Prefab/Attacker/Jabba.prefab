@@ -77,6 +77,10 @@ MonoBehaviour:
   enemyProjectile: {fileID: 0}
   _hitColor: {r: 1, g: 0.3372549, b: 0.3372549, a: 1}
   _freezeColor: {r: 0, g: 0, b: 1, a: 1}
+  _attackSFX: jabra_attack
+  _idleSFX: jabra_idle
+  _deathSFX: jabra_death
+  _slowSFX: slow_magic_apply
 --- !u!50 &3544375062292930606
 Rigidbody2D:
   serializedVersion: 4
